@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-01-20 19:01+0900\n"
+"POT-Creation-Date: 2021-02-23 15:38+0900\n"
 "PO-Revision-Date: 2019-09-16 08:15+0000\n"
 "Last-Translator: weongyo <weongyo@gmail.com>, 2021\n"
 "Language: de_DE\n"
@@ -17,8 +17,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
 
-msgid "미꾸라지 VPN"
-msgstr "Mudfish-VPN"
+msgid "미꾸라지 LAN"
+msgstr ""
 
 msgid "대시보드"
 msgstr "Dashboard"
@@ -31,6 +31,24 @@ msgstr "Anmelden"
 
 msgid "중계 서버"
 msgstr "Relay-Server"
+
+msgid "생성하기"
+msgstr ""
+
+msgid "참여하기"
+msgstr ""
+
+msgid "문제점 보고서"
+msgstr "Problembericht"
+
+msgid "자체 진단 - 상태"
+msgstr "Selbstdiagnose-Status"
+
+msgid "프로세스 - 상태"
+msgstr "Prozess-Status"
+
+msgid "미꾸라지 VPN"
+msgstr "Mudfish-VPN"
 
 msgid "CLI"
 msgstr "Befehlszeilenschnittstelle (CLI)"
@@ -77,23 +95,14 @@ msgstr "Vollständiger RTT-Status der VPN-Relay-Server"
 msgid "Full VPN - 공개 무료 서버 RTT 상황"
 msgstr "Vollständiger RTT-Status der öffentlichen, kostenlosen Server"
 
-msgid "문제점 보고서"
-msgstr "Problembericht"
-
 msgid "접속 기록 - 상태"
 msgstr "Verbindungsverlauf-Status"
-
-msgid "자체 진단 - 상태"
-msgstr "Selbstdiagnose-Status"
 
 msgid "메모리 - 상태"
 msgstr "Speicher-Status"
 
 msgid "중계 서버 - 상태"
 msgstr "Relay-Server-Status"
-
-msgid "프로세스 - 상태"
-msgstr "Prozess-Status"
 
 msgid "트래픽 - 상태"
 msgstr "Verkehrs-Status"
@@ -2140,4 +2149,40 @@ msgstr "Dark Souls Ⅱ: Scholar of the First Sin"
 
 msgid "피파 20"
 msgstr "FIFA 20"
+
+msgid "모여서 플레이할 중계 서버를 선택합니다."
+msgstr ""
+
+msgid "사용하실 중계 서버를 선택해 주세요."
+msgstr ""
+
+msgid "참여자"
+msgstr ""
+
+msgid "나가기"
+msgstr ""
+
+msgid "성공적으로 생성되었습니다."
+msgstr ""
+
+msgid "참여 실패"
+msgstr ""
+
+msgid "입력하신 참여 코드를 찾을 수 없습니다."
+msgstr ""
+
+msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
+msgstr ""
+
+msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
+msgstr ""
+
+msgid "XXX-XXXX"
+msgstr ""
+
+msgid "참여 코드"
+msgstr ""
+
+msgid "입력하신 참여 코드 형식이 잘못되었습니다."
+msgstr ""
 
