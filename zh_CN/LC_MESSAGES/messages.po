@@ -7,19 +7,20 @@ msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
 "POT-Creation-Date: 2021-02-23 15:38+0900\n"
-"PO-Revision-Date: 2019-09-16 08:15+0000\n"
-"Last-Translator: weongyo <weongyo@gmail.com>, 2020\n"
+"PO-Revision-Date: 2021-02-23 06:56+0000\n"
+"Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://weblate.mudfish.net/projects/"
+"mudfish/launcher/zh_Hans/>\n"
 "Language: zh_CN\n"
-"Language-Team: Chinese (China) "
-"(https://www.transifex.com/mudfish/teams/20171/zh_CN/)\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
-msgstr ""
+msgstr "Mudfish LAN"
 
 msgid "대시보드"
 msgstr "控制面板"
@@ -34,10 +35,10 @@ msgid "중계 서버"
 msgstr "Mudfish服务器"
 
 msgid "생성하기"
-msgstr ""
+msgstr "创建"
 
 msgid "참여하기"
-msgstr ""
+msgstr "参加"
 
 msgid "문제점 보고서"
 msgstr "问题报告"
@@ -920,7 +921,7 @@ msgid "아이템 수정"
 msgstr "修改物品"
 
 msgid "아이템 Export"
-msgstr ""
+msgstr "Item 出口"
 
 msgid "오늘의 추천 경로"
 msgstr "今天的路由"
@@ -1057,22 +1058,22 @@ msgid "구매하신 아이템이 없습니다."
 msgstr "未购买物品"
 
 msgid "Custom 아이템 생성"
-msgstr ""
+msgstr "创建自定义项目"
 
 msgid "Custom 아이템 Import"
-msgstr ""
+msgstr "导入自定义项目"
 
 msgid "아이템 Import 를 위한 JSON 문법을 입력합니다. 혹은 아이템 JSON 파일 위치를 지정해 주세요."
-msgstr ""
+msgstr "输入用于导入项目的JSON语法。或指定项目JSON文件的位置。"
 
 msgid "혹은"
-msgstr ""
+msgstr "Or"
 
 msgid "Import 하기"
-msgstr ""
+msgstr "进口"
 
 msgid "JSON 오류"
-msgstr ""
+msgstr "JSON错误"
 
 msgid "자동 선택"
 msgstr "自动选择"
@@ -2008,38 +2009,37 @@ msgid "피파 20"
 msgstr "FIFA 20"
 
 msgid "모여서 플레이할 중계 서버를 선택합니다."
-msgstr ""
+msgstr "选择一个中继服务器来收集和播放。"
 
 msgid "사용하실 중계 서버를 선택해 주세요."
-msgstr ""
+msgstr "请选择要使用的中继服务器。"
 
 msgid "참여자"
-msgstr ""
+msgstr "参加者"
 
 msgid "나가기"
-msgstr ""
+msgstr "出口"
 
 msgid "성공적으로 생성되었습니다."
-msgstr ""
+msgstr "它已成功创建。"
 
 msgid "참여 실패"
-msgstr ""
+msgstr "未能参加"
 
 msgid "입력하신 참여 코드를 찾을 수 없습니다."
-msgstr ""
+msgstr "找不到您输入的参与代码。"
 
 msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
-msgstr ""
+msgstr "我收到了参与者信息。更新信息。"
 
 msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
-msgstr ""
+msgstr "加入一个可以玩局域网的房间。请以数字XXX-XXXX格式输入您的参与代码。"
 
 msgid "XXX-XXXX"
-msgstr ""
+msgstr "XXX-XXXX"
 
 msgid "참여 코드"
-msgstr ""
+msgstr "参加代码"
 
 msgid "입력하신 참여 코드 형식이 잘못되었습니다."
-msgstr ""
-
+msgstr "您输入的参与代码格式不正确。"
