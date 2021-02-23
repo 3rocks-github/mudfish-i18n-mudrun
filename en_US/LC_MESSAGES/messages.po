@@ -7,19 +7,20 @@ msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
 "POT-Creation-Date: 2021-02-23 15:38+0900\n"
-"PO-Revision-Date: 2021-01-13 01:41+0000\n"
+"PO-Revision-Date: 2021-02-23 06:56+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.mudfish.net/projects/"
+"mudfish/launcher/en_US/>\n"
 "Language: en_US\n"
-"Language-Team: English (United States) "
-"<https://weblate.mudfish.net/projects/mudfish/launcher/en_US/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
-msgstr ""
+msgstr "Mudfish LAN"
 
 msgid "대시보드"
 msgstr "Dashboard"
@@ -34,10 +35,10 @@ msgid "중계 서버"
 msgstr "Nodes"
 
 msgid "생성하기"
-msgstr ""
+msgstr "Create"
 
 msgid "참여하기"
-msgstr ""
+msgstr "Join"
 
 msgid "문제점 보고서"
 msgstr "Problem Report"
@@ -2107,38 +2108,39 @@ msgid "피파 20"
 msgstr "FIFA 20"
 
 msgid "모여서 플레이할 중계 서버를 선택합니다."
-msgstr ""
+msgstr "Select a mudfish node to gather and play."
 
 msgid "사용하실 중계 서버를 선택해 주세요."
-msgstr ""
+msgstr "Please select a mudfish node to use."
 
 msgid "참여자"
-msgstr ""
+msgstr "Members"
 
 msgid "나가기"
-msgstr ""
+msgstr "Leave"
 
 msgid "성공적으로 생성되었습니다."
-msgstr ""
+msgstr "It was created successfully."
 
 msgid "참여 실패"
-msgstr ""
+msgstr "Failed to join"
 
 msgid "입력하신 참여 코드를 찾을 수 없습니다."
-msgstr ""
+msgstr "The join code you entered could not be found."
 
 msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
-msgstr ""
+msgstr "Received the member information. Updating information."
 
 msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
 msgstr ""
+"Join a room where you can do LAN play. Please enter your join code in "
+"numeric XXX-XXXX format."
 
 msgid "XXX-XXXX"
-msgstr ""
+msgstr "XXX-XXXX"
 
 msgid "참여 코드"
-msgstr ""
+msgstr "Join code"
 
 msgid "입력하신 참여 코드 형식이 잘못되었습니다."
-msgstr ""
-
+msgstr "The format of the join code you entered is incorrect."
