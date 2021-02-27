@@ -5,17 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-02-23 15:38+0900\n"
+"POT-Creation-Date: 2021-02-27 17:43+0900\n"
 "PO-Revision-Date: 2021-02-23 06:56+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Japanese <https://weblate.mudfish.net/projects/mudfish/"
-"launcher/ja/>\n"
 "Language: ja_JP\n"
+"Language-Team: Japanese "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/ja/>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -2067,6 +2066,12 @@ msgstr "参加者"
 msgid "나가기"
 msgstr "終了"
 
+msgid "참여자 갱신"
+msgstr ""
+
+msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
+msgstr ""
+
 msgid "성공적으로 생성되었습니다."
 msgstr "正常に作成されました。"
 
@@ -2075,6 +2080,12 @@ msgstr "参加に失敗し"
 
 msgid "입력하신 참여 코드를 찾을 수 없습니다."
 msgstr "入力された参加コードを見つけることができません。"
+
+msgid "${username} 참여자 정보를 받았습니다."
+msgstr ""
+
+msgid "${username} 참여자가 제외되었습니다."
+msgstr ""
 
 msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
 msgstr "参加者の情報を受けました。情報を更新します。"
@@ -2090,3 +2101,10 @@ msgstr "参加コード"
 
 msgid "입력하신 참여 코드 형식이 잘못되었습니다."
 msgstr "入力された参加コードの形式が無効です。"
+
+msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
+msgstr ""
+
+msgid "미꾸라지 LAN 프로세스"
+msgstr ""
+

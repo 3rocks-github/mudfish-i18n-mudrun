@@ -5,19 +5,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-02-23 15:38+0900\n"
+"POT-Creation-Date: 2021-02-27 17:43+0900\n"
 "PO-Revision-Date: 2021-02-23 06:56+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Russian <https://weblate.mudfish.net/projects/mudfish/"
-"launcher/ru/>\n"
 "Language: ru_RU\n"
+"Language-Team: Russian "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/ru/>\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) "
+"|| (n%100>=11 && n%100<=14)? 2 : 3)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
-"%100>=11 && n%100<=14)? 2 : 3);\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -2153,6 +2152,12 @@ msgstr "Участников"
 msgid "나가기"
 msgstr "Выход"
 
+msgid "참여자 갱신"
+msgstr ""
+
+msgid "참여자 목록을 갱신합니다. 최대 5초 정도 기다려 주십시오."
+msgstr ""
+
 msgid "성공적으로 생성되었습니다."
 msgstr "Создан успешно."
 
@@ -2162,13 +2167,19 @@ msgstr "Отказ от участия"
 msgid "입력하신 참여 코드를 찾을 수 없습니다."
 msgstr "Введенный вами код участия не может быть найден."
 
+msgid "${username} 참여자 정보를 받았습니다."
+msgstr ""
+
+msgid "${username} 참여자가 제외되었습니다."
+msgstr ""
+
 msgid "참여자 정보를 받았습니다. 정보를 갱신합니다."
 msgstr "Я получил информацию об участнике. Обновить информацию."
 
 msgid "LAN 플레이를 할 수 있는 방에 참여합니다. 숫자 XXX-XXXX 형식인 참여 코드를 입력해 주세요."
 msgstr ""
-"Присоединяйтесь к комнате, где вы можете играть в LAN. Пожалуйста, введите "
-"свой код участия в числовом формате XXX-XXXX."
+"Присоединяйтесь к комнате, где вы можете играть в LAN. Пожалуйста, "
+"введите свой код участия в числовом формате XXX-XXXX."
 
 msgid "XXX-XXXX"
 msgstr "XXX-XXXX"
@@ -2178,3 +2189,10 @@ msgstr "Код участия"
 
 msgid "입력하신 참여 코드 형식이 잘못되었습니다."
 msgstr "Вы ввели неверный формат кода участия."
+
+msgid "참여 코드를 확인하는 동안 오류가 발생하였습니다."
+msgstr ""
+
+msgid "미꾸라지 LAN 프로세스"
+msgstr ""
+
