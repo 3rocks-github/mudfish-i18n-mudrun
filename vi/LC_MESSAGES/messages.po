@@ -5,17 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-02-27 17:43+0900\n"
+"POT-Creation-Date: 2021-03-28 00:34+0900\n"
 "PO-Revision-Date: 2021-02-27 09:11+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Vietnamese <https://weblate.mudfish.net/projects/mudfish/"
-"launcher/vi/>\n"
 "Language: vi\n"
+"Language-Team: Vietnamese "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/vi/>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -197,6 +196,12 @@ msgstr "Mudfish đã ngừng hoạt động thành công. Làm mới màn hình.
 msgid "미꾸라지 종료가 실패하였습니다."
 msgstr "Tắt Mudfish thất bại."
 
+msgid "실시간 RTT"
+msgstr "RTT thời gian thực"
+
+msgid "실시간 RTT 그래프 통계를 초기화하였습니다."
+msgstr ""
+
 msgid "패킷 로스"
 msgstr "Mất gói"
 
@@ -266,9 +271,6 @@ msgstr "Thông tin RTT đã được cập nhật."
 
 msgid "전"
 msgstr "Trước"
-
-msgid "실시간 RTT"
-msgstr "RTT thời gian thực"
 
 msgid "실시간 트래픽"
 msgstr "Lưu lượng thời gian thực"
@@ -1128,6 +1130,9 @@ msgstr "Thêm"
 
 msgid "수정하기"
 msgstr "Chỉnh sửa"
+
+msgid "아이콘 파일의 크기가 512KB 를 초과합니다."
+msgstr ""
 
 msgid "잘못된 IP 를 입력하였습니다."
 msgstr "Bạn đã nhập một IP không chính xác."
@@ -2180,3 +2185,4 @@ msgstr "Đã xảy ra lỗi khi kiểm tra mã tham gia."
 
 msgid "미꾸라지 LAN 프로세스"
 msgstr "Mudfish LAN process"
+

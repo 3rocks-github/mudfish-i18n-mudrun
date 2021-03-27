@@ -5,19 +5,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-02-27 17:43+0900\n"
+"POT-Creation-Date: 2021-03-28 00:34+0900\n"
 "PO-Revision-Date: 2021-02-27 09:11+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Russian <https://weblate.mudfish.net/projects/mudfish/"
-"launcher/ru/>\n"
 "Language: ru_RU\n"
+"Language-Team: Russian "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/ru/>\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) "
+"|| (n%100>=11 && n%100<=14)? 2 : 3)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
-"%100>=11 && n%100<=14)? 2 : 3);\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -199,6 +198,12 @@ msgstr "Mudfish был успешно закрыт. Обновите экран.
 msgid "미꾸라지 종료가 실패하였습니다."
 msgstr "Не удалось закрыть Mudfish."
 
+msgid "실시간 RTT"
+msgstr "Фактический RTT"
+
+msgid "실시간 RTT 그래프 통계를 초기화하였습니다."
+msgstr ""
+
 msgid "패킷 로스"
 msgstr "Потеря пакета"
 
@@ -270,9 +275,6 @@ msgstr "Информация RTT была обновлена."
 
 msgid "전"
 msgstr "До"
-
-msgid "실시간 RTT"
-msgstr "Фактический RTT"
 
 msgid "실시간 트래픽"
 msgstr "Фактический трафик"
@@ -1143,6 +1145,9 @@ msgstr "Добавить"
 
 msgid "수정하기"
 msgstr "Редактировать"
+
+msgid "아이콘 파일의 크기가 512KB 를 초과합니다."
+msgstr ""
 
 msgid "잘못된 IP 를 입력하였습니다."
 msgstr "Вы ввели неверный IP."
@@ -2196,3 +2201,4 @@ msgstr "Произошла ошибка при проверке кода уча�
 
 msgid "미꾸라지 LAN 프로세스"
 msgstr "Mudfish LAN process"
+

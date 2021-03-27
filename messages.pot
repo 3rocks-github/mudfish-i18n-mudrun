@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-02-27 17:43+0900\n"
+"POT-Creation-Date: 2021-03-28 00:34+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -184,6 +184,12 @@ msgstr ""
 msgid "미꾸라지 종료가 실패하였습니다."
 msgstr ""
 
+msgid "실시간 RTT"
+msgstr ""
+
+msgid "실시간 RTT 그래프 통계를 초기화하였습니다."
+msgstr ""
+
 msgid "패킷 로스"
 msgstr ""
 
@@ -248,9 +254,6 @@ msgid "RTT 정보가 업데이트 되었습니다."
 msgstr ""
 
 msgid "전"
-msgstr ""
-
-msgid "실시간 RTT"
 msgstr ""
 
 msgid "실시간 트래픽"
@@ -1013,6 +1016,9 @@ msgid "추가하기"
 msgstr ""
 
 msgid "수정하기"
+msgstr ""
+
+msgid "아이콘 파일의 크기가 512KB 를 초과합니다."
 msgstr ""
 
 msgid "잘못된 IP 를 입력하였습니다."
