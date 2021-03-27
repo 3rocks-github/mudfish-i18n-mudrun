@@ -6,15 +6,16 @@ msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
 "POT-Creation-Date: 2021-03-28 00:34+0900\n"
-"PO-Revision-Date: 2021-02-27 09:11+0000\n"
+"PO-Revision-Date: 2021-03-27 15:40+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
+"Language-Team: Malay <https://weblate.mudfish.net/projects/mudfish/launcher/"
+"ms/>\n"
 "Language: ms\n"
-"Language-Team: Malay "
-"<https://weblate.mudfish.net/projects/mudfish/launcher/ms/>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -197,7 +198,7 @@ msgid "실시간 RTT"
 msgstr "RTT Masa Sebenar"
 
 msgid "실시간 RTT 그래프 통계를 초기화하였습니다."
-msgstr ""
+msgstr "Statistik grafik RTT masa nyata telah dimulakan."
 
 msgid "패킷 로스"
 msgstr "Packet Loss"
@@ -1115,7 +1116,7 @@ msgid "수정하기"
 msgstr "Ubahsuai"
 
 msgid "아이콘 파일의 크기가 512KB 를 초과합니다."
-msgstr ""
+msgstr "Ukuran fail ikon melebihi 512 KB."
 
 msgid "잘못된 IP 를 입력하였습니다."
 msgstr "Anda telah memasukkan IP yang salah."
@@ -1989,7 +1990,7 @@ msgid "剑网3"
 msgstr "JX Online 3"
 
 msgid "게임조선"
-msgstr ""
+msgstr "Game Chosun"
 
 msgid "피파 17"
 msgstr "FIFA 17"
@@ -2040,7 +2041,7 @@ msgid "少女前线"
 msgstr "少女前线"
 
 msgid "아틀란티카"
-msgstr ""
+msgstr "Atlantica Online"
 
 msgid "街頭籃球"
 msgstr "街頭籃球"
@@ -2049,7 +2050,7 @@ msgid "스타크래프트: 리마스터"
 msgstr "StarCraft: Remastered"
 
 msgid "이터널시티1"
-msgstr ""
+msgstr "Eternal City 1"
 
 msgid "피파 18"
 msgstr "FIFA 18"
@@ -2058,7 +2059,7 @@ msgid "씰 온라인"
 msgstr "Seal Online"
 
 msgid "천애명월도"
-msgstr ""
+msgstr "Moonlight Blade"
 
 msgid "듀랑고"
 msgstr "Durango"
@@ -2106,7 +2107,7 @@ msgid "스톤에이지"
 msgstr "StoneAge"
 
 msgid "무도유협"
-msgstr ""
+msgstr "무도유협"
 
 msgid "Dark Souls Ⅱ: Scholar of the First Sin"
 msgstr "Dark Souls Ⅱ: Scholar of the First Sin"
@@ -2169,4 +2170,3 @@ msgstr "Ralat berlaku semasa memeriksa kod penyertaan."
 
 msgid "미꾸라지 LAN 프로세스"
 msgstr "Mudfish LAN process"
-
