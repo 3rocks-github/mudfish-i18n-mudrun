@@ -7,15 +7,16 @@ msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
 "POT-Creation-Date: 2021-03-28 00:34+0900\n"
-"PO-Revision-Date: 2021-02-27 09:11+0000\n"
+"PO-Revision-Date: 2021-03-27 15:40+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
+"Language-Team: English (United States) <https://weblate.mudfish.net/projects/"
+"mudfish/launcher/en_US/>\n"
 "Language: en_US\n"
-"Language-Team: English (United States) "
-"<https://weblate.mudfish.net/projects/mudfish/launcher/en_US/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -200,7 +201,7 @@ msgid "실시간 RTT"
 msgstr "Realtime RTT"
 
 msgid "실시간 RTT 그래프 통계를 초기화하였습니다."
-msgstr ""
+msgstr "Real-time RTT graph statistics have been initialized."
 
 msgid "패킷 로스"
 msgstr "Packet Loss"
@@ -1112,7 +1113,7 @@ msgid "수정하기"
 msgstr "Modify"
 
 msgid "아이콘 파일의 크기가 512KB 를 초과합니다."
-msgstr ""
+msgstr "The size of the icon file exceeds 512 KB."
 
 msgid "잘못된 IP 를 입력하였습니다."
 msgstr "You entered an incorrect IP."
@@ -2102,7 +2103,6 @@ msgstr "Watcha"
 msgid "스톤에이지"
 msgstr "StoneAge"
 
-#, fuzzy
 msgid "무도유협"
 msgstr "무도유협"
 
@@ -2167,4 +2167,3 @@ msgstr "An error occurred while checking the join code."
 
 msgid "미꾸라지 LAN 프로세스"
 msgstr "Mudfish LAN process"
-
