@@ -5,17 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-03-28 00:34+0900\n"
+"POT-Creation-Date: 2021-04-08 15:46+0900\n"
 "PO-Revision-Date: 2021-03-27 15:40+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Malay <https://weblate.mudfish.net/projects/mudfish/launcher/"
-"ms/>\n"
 "Language: ms\n"
+"Language-Team: Malay "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/ms/>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -647,6 +646,14 @@ msgstr "Trafik dikendalikan dengan cara proksi, bukannya penghala."
 msgid "연결 프로토콜이 TCP인 아이템에만 도움을 줍니다."
 msgstr "This option is only helpful for TCP based games."
 
+msgid "WFP 아이템 모드"
+msgstr ""
+
+msgid ""
+"아이템 이용시, 가능하다면 윈도우의 WFP(Windows Filtering Platform) 기능을 이용하여 라우팅 테이블 기반 "
+"대신 프로세스 기반 방식으로 작동하도록 구성합니다."
+msgstr ""
+
 msgid "크레딧 절약 모드"
 msgstr "Mod penjimatan kredit"
 
@@ -1218,6 +1225,9 @@ msgstr "Sisihan Piawai RTT yang Dijangkakan."
 
 msgid "오류"
 msgstr "Ralat"
+
+msgid "혼잡도"
+msgstr ""
 
 msgid "목록 제한"
 msgstr "Pengurus Nod"
@@ -2170,3 +2180,4 @@ msgstr "Ralat berlaku semasa memeriksa kod penyertaan."
 
 msgid "미꾸라지 LAN 프로세스"
 msgstr "Mudfish LAN process"
+
