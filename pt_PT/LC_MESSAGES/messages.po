@@ -5,17 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-04-08 15:46+0900\n"
+"POT-Creation-Date: 2021-04-26 15:18+0900\n"
 "PO-Revision-Date: 2021-04-08 06:54+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Portuguese (Portugal) <https://weblate.mudfish.net/projects/"
-"mudfish/launcher/pt_PT/>\n"
 "Language: pt_PT\n"
+"Language-Team: Portuguese (Portugal) "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/pt_PT/>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -57,6 +56,9 @@ msgstr "CLI"
 msgid "패킷 덤프"
 msgstr "Despejo de pacotes"
 
+msgid "프로세스 덤프"
+msgstr ""
+
 msgid "Matt's traceroute"
 msgstr "Traceroute de Matt"
 
@@ -89,6 +91,12 @@ msgstr "Lista de itens"
 
 msgid "아이템 관리"
 msgstr "Gestão de itens"
+
+msgid "아이템 모드"
+msgstr ""
+
+msgid "아이템 마법사"
+msgstr ""
 
 msgid "Full VPN - 중계 서버 RTT 상황"
 msgstr "Situação RTT completa do servidor de retransmissão VPN"
@@ -362,6 +370,18 @@ msgstr ""
 "VPN completo está morto. Aceda ao menu \\\"Configurações - Programa\\\" e"
 " defina o modo VPN completo novamente."
 
+msgid "간단 설정"
+msgstr ""
+
+msgid "FastConnect 모드"
+msgstr "Modo FastConnect"
+
+msgid "Full VPN 모드"
+msgstr "Modo VPN completo"
+
+msgid "WFP 아이템 모드"
+msgstr "Modo de item WFP"
+
 msgid "상태"
 msgstr "Estado"
 
@@ -382,12 +402,6 @@ msgstr "Plano de pagamento conforme o uso"
 
 msgid "요금제"
 msgstr "Plano"
-
-msgid "FastConnect 모드"
-msgstr "Modo FastConnect"
-
-msgid "Full VPN 모드"
-msgstr "Modo VPN completo"
 
 msgid "현재 Public IP"
 msgstr "IP público atual"
@@ -424,6 +438,101 @@ msgstr "Servidor de retransmissão selecionado"
 msgid "장착한 아이템이 없습니다."
 msgstr "Não há itens equipados."
 
+msgid "RTT 정보 조회"
+msgstr "Informações sobre RTT"
+
+msgid "메뉴"
+msgstr "menu"
+
+msgid "오늘의 추천 경로"
+msgstr "Rota recomendada de hoje"
+
+msgid "라우팅 정보"
+msgstr ""
+
+msgid "아이템 추가"
+msgstr ""
+
+msgid "추가하실 아이템의 종료를 선택해 주세요."
+msgstr ""
+
+msgid "미꾸라지에 이미 만들어져 있는 아이템을 리스트에 추가합니다."
+msgstr ""
+
+msgid "운영체제에서 실행될 프로세스 이름을 추가합니다."
+msgstr ""
+
+msgid "운영체제에서 세팅될 라우팅 테이블 정보를 추가합니다."
+msgstr ""
+
+msgid "프로세스 추가"
+msgstr ""
+
+msgid "현재 설정"
+msgstr ""
+
+msgid "실행중"
+msgstr ""
+
+msgid "직접 입력"
+msgstr ""
+
+msgid "설정된 프로세스가 없습니다."
+msgstr ""
+
+msgid "닫기"
+msgstr "Fechar"
+
+msgid "저장하기"
+msgstr "Guardar"
+
+msgid "라우팅테이블 추가"
+msgstr ""
+
+msgid "설정된 라우팅테이블 정보가 없습니다."
+msgstr ""
+
+msgid "목적지"
+msgstr "Destino"
+
+msgid "계산중입니다. 잠시 후 다시 시도해 보시기 바랍니다."
+msgstr ""
+
+msgid "라우팅 경로"
+msgstr "Caminho de roteamento"
+
+msgid ""
+"컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를 "
+"선택해 주세요."
+msgstr ""
+"Todo o tráfego originado no computador será encaminhado para o servidor "
+"de retransmissão do Mudfish. Se deseja usar esse recurso, selecione um "
+"servidor de retransmissão disponível abaixo."
+
+msgid "안내!"
+msgstr "Aviso!"
+
+msgid "크레딧 없거나 혹은 Full VPN 을 사용할 권한이 없습니다."
+msgstr "Não tem crédito nem permissão para usar o VPN completo."
+
+msgid "사용할 중계 서버를 선택하십시오."
+msgstr "Selecione o servidor de retransmissão a ser usado."
+
+msgid "하나의 중계 서버를 경유하여 트래픽이 전달됩니다."
+msgstr "O tráfego passará por um servidor de retransmissão."
+
+msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr "O tráfego flui através de dois servidores de retransmissão."
+
+msgid "두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째 중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다."
+msgstr ""
+"O tráfego passa por dois servidores de retransmissão, mas a seleção do "
+"primeiro servidor de retransmissão é alterada automaticamente, dependendo"
+" do status do ping."
+
+msgid "자동 선택"
+msgstr "Seleção automática"
+
 msgid "정기 점검 안내"
 msgstr "Guia de manutenção do servidor"
 
@@ -456,6 +565,27 @@ msgstr ""
 "de retransmissão Mudfish podem ser desligados e pode haver problemas ao "
 "iniciar sessão e aceder à página inicial."
 
+msgid "중계 서버 설정"
+msgstr ""
+
+msgid "선택하신 중계 서버로 변경되었습니다."
+msgstr "Alterado para o servidor de retransmissão selecionado."
+
+msgid "처음 미꾸라지를 사용하시나요? 설정된 아이템이 없습니다. 아이템 마법사 기능으로 첫 아이템을 세팅해 보세요."
+msgstr ""
+
+msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
+msgstr ""
+
+msgid "프로세스"
+msgstr "processo"
+
+msgid "설정되지 않음"
+msgstr ""
+
+msgid "정말 삭제하시겠습니까?"
+msgstr "Tem a certeza de que deseja apagar?"
+
 msgid "연결 상태"
 msgstr "Estado da ligação"
 
@@ -470,6 +600,24 @@ msgstr "O programa Mudfish não está em execução no momento."
 
 msgid "연결하기"
 msgstr "Ligar"
+
+msgid "요약"
+msgstr ""
+
+msgid "연결 방식"
+msgstr ""
+
+msgid "Full VPN 기반"
+msgstr ""
+
+msgid "아이템 기반"
+msgstr ""
+
+msgid "적용 아이템"
+msgstr ""
+
+msgid "적용할 아이템이 없습니다."
+msgstr ""
 
 msgid "기본 설정"
 msgstr "Configurações básicas"
@@ -572,20 +720,6 @@ msgstr "Média RTT"
 msgid "RTT 표준편차"
 msgstr "Desvio padrão da RTT"
 
-msgid ""
-"컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를 "
-"선택해 주세요."
-msgstr ""
-"Todo o tráfego originado no computador será encaminhado para o servidor "
-"de retransmissão do Mudfish. Se deseja usar esse recurso, selecione um "
-"servidor de retransmissão disponível abaixo."
-
-msgid "안내!"
-msgstr "Aviso!"
-
-msgid "크레딧 없거나 혹은 Full VPN 을 사용할 권한이 없습니다."
-msgstr "Não tem crédito nem permissão para usar o VPN completo."
-
 msgid "중계 서버 목록"
 msgstr "Lista de servidores de retransmissão"
 
@@ -663,16 +797,13 @@ msgstr ""
 msgid "연결 프로토콜이 TCP인 아이템에만 도움을 줍니다."
 msgstr "Útil apenas para itens com um protocolo de ligação TCP."
 
-msgid "WFP 아이템 모드"
-msgstr "Modo de item WFP"
-
 msgid ""
 "아이템 이용시, 가능하다면 윈도우의 WFP(Windows Filtering Platform) 기능을 이용하여 라우팅 테이블 기반 "
 "대신 프로세스 기반 방식으로 작동하도록 구성합니다."
 msgstr ""
-"Ao usar itens, use a função Windows Filtering Platform (WFP) do Windows, se "
-"possível, para configurar para operar de maneira baseada em processo em vez "
-"de baseada em tabela de roteamento."
+"Ao usar itens, use a função Windows Filtering Platform (WFP) do Windows, "
+"se possível, para configurar para operar de maneira baseada em processo "
+"em vez de baseada em tabela de roteamento."
 
 msgid "크레딧 절약 모드"
 msgstr "Modo de economia de crédito"
@@ -692,6 +823,18 @@ msgid "미꾸라지 Launcher 가 로그인 후 자동으로 중계 서버에 연
 msgstr ""
 "Configura o Mudfish Launcher para se ligar automaticamente ao servidor de"
 " retransmissão após o início de sessão. O valor padrão é Desativado."
+
+msgid "아이템 설정 모드"
+msgstr ""
+
+msgid "아이템 설정을 위한 모드를 설정합니다."
+msgstr ""
+
+msgid "심플"
+msgstr ""
+
+msgid "기본"
+msgstr ""
 
 msgid "배경화면"
 msgstr "Papéis de parede"
@@ -833,9 +976,6 @@ msgstr "Descrição de uma linha"
 msgid "패킷 덤프의 내용을 간략하게 설명해 주세요."
 msgstr "Descreva brevemente o conteúdo do despejo de pacotes."
 
-msgid "닫기"
-msgstr "Fechar"
-
 msgid "패킷 덤프 중입니다."
 msgstr "O despejo de pacotes está em curso."
 
@@ -850,6 +990,24 @@ msgstr "Pode encontrar o despejo no seguinte link."
 
 msgid "패킷 덤프 주제글"
 msgstr "Tópico de despejo de pacotes"
+
+msgid "운영체제에서 실행되고 종료되는 프로세스 이름을 덤프하는 기능입니다."
+msgstr ""
+
+msgid "프로세스 갯수"
+msgstr ""
+
+msgid "덤프 업로드"
+msgstr ""
+
+msgid "프로세스 덤프의 내용을 간략하게 설명해 주세요."
+msgstr ""
+
+msgid "프로세스 덤프 중입니다."
+msgstr ""
+
+msgid "프로세스 덤프 주제글"
+msgstr ""
 
 msgid ""
 "<a href='https://en.wikipedia.org/wiki/MTR_(software)' "
@@ -907,8 +1065,8 @@ msgstr "Pior/Mais baixo"
 msgid "MTR 기능이 지원되지 않는 운영체제입니다."
 msgstr "O sistema operacional não suporta a função MTR."
 
-msgid "저장하기"
-msgstr "Guardar"
+msgid "설명"
+msgstr "Descrição do produto"
 
 msgid "아이템은 <strong>한달</strong> 동안 유효합니다."
 msgstr "The item is valid for <strong>1 month</strong>."
@@ -935,6 +1093,9 @@ msgstr ""
 "(Content Delivery Network). Se descarregar ou transmitir um ficheiro "
 "enquanto o Mudfish estiver ativado, poderá inadvertidamente perder muito "
 "crédito."
+
+msgid "설정"
+msgstr "Configurações"
 
 msgid "자동 갱신"
 msgstr "Renovação automática"
@@ -970,21 +1131,6 @@ msgstr "Servidor privado"
 msgid "공식 서버"
 msgstr "Servidor oficial"
 
-msgid "사용할 중계 서버를 선택하십시오."
-msgstr "Selecione o servidor de retransmissão a ser usado."
-
-msgid "하나의 중계 서버를 경유하여 트래픽이 전달됩니다."
-msgstr "O tráfego passará por um servidor de retransmissão."
-
-msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
-msgstr "O tráfego flui através de dois servidores de retransmissão."
-
-msgid "두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째 중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다."
-msgstr ""
-"O tráfego passa por dois servidores de retransmissão, mas a seleção do "
-"primeiro servidor de retransmissão é alterada automaticamente, dependendo"
-" do status do ping."
-
 msgid "정말로 구매하시겠습니까?"
 msgstr "Tem a certeza de que deseja fazer uma compra?"
 
@@ -993,12 +1139,6 @@ msgstr "Item de compra"
 
 msgid "무료"
 msgstr "grátis"
-
-msgid "설정"
-msgstr "Configurações"
-
-msgid "선택하신 중계 서버로 변경되었습니다."
-msgstr "Alterado para o servidor de retransmissão selecionado."
 
 msgid "오늘의 추천 경로 계산시 사용되는 RTT 정보가 1 시간 이상 오래된 정보를 기준으로 하니 참고 바랍니다.."
 msgstr ""
@@ -1024,25 +1164,25 @@ msgstr "Editar itens"
 msgid "아이템 Export"
 msgstr "Exportação de Item"
 
-msgid "오늘의 추천 경로"
-msgstr "Rota recomendada de hoje"
+msgid "아이템 삭제"
+msgstr "Apagar item"
+
+msgid "목적지를 찾을 수 없습니다."
+msgstr ""
+
+msgid "Custom 아이템의 경우, '아이템 수정' 메뉴에서 목적지를 입력하실 수 있습니다."
+msgstr ""
 
 msgid "계산된 최적의 미꾸라지 중계 서버 이용 경로들이며, 예상 RTT 평균과 편차 정보입니다."
 msgstr ""
 "Estas são as rotas ótimas calculadas do servidor de retransmissão para o "
 "Mudfish e as informações estimadas de média e desvio do RTT."
 
-msgid "목적지"
-msgstr "Destino"
-
 msgid "계산 시각"
 msgstr "Tempo de cálculo"
 
 msgid "최단 경로 업데이트"
 msgstr "Atualizar rota mais curta"
-
-msgid "라우팅 경로"
-msgstr "Caminho de roteamento"
 
 msgid "현재 계산된 추천 경로가 없습니다."
 msgstr "Atualmente, não há rotas recomendadas calculadas."
@@ -1069,9 +1209,6 @@ msgstr "Configuração"
 msgid "기간 연장"
 msgstr "Prolongar período"
 
-msgid "아이템 삭제"
-msgstr "Apagar item"
-
 msgid "정말 기간 연장 하겠습니까?"
 msgstr "Tem a certeza de que deseja prolongar o período de uso?"
 
@@ -1080,9 +1217,6 @@ msgstr "Precauções"
 
 msgid "남은 시간에 31 일이 추가됩니다."
 msgstr "31 dias são adicionados ao tempo restante."
-
-msgid "정말 삭제하시겠습니까?"
-msgstr "Tem a certeza de que deseja apagar?"
 
 msgid "남은 기간은 크레딧으로 환불되지 않습니다."
 msgstr "O período restante não é reembolsável como crédito."
@@ -1191,8 +1325,47 @@ msgstr "Importar"
 msgid "JSON 오류"
 msgstr "Erro JSON"
 
-msgid "자동 선택"
-msgstr "Seleção automática"
+msgid "아이템 모드 설정"
+msgstr ""
+
+msgid "아이템 설정 모드 변경을 하고자 한다면, '설정 -> 프로그램' 메뉴에 있는 Launcher 탭에서 변경하실 수 있습니다."
+msgstr ""
+
+msgid "아이템 설정 및 구성을 최대한 단순화 시킨 모드입니다."
+msgstr ""
+
+msgid "기존 미꾸라지 아이템 설정 방법입니다."
+msgstr ""
+
+msgid "안녕하세요!"
+msgstr ""
+
+msgid "아이템 선택"
+msgstr ""
+
+msgid "미꾸라지를 처음 사용하시는 분들을 위한 아이템 설정 마법사 화면입니다. 플레이하고자 하는 게임/스트리밍을 선택해 주세요."
+msgstr ""
+
+msgid "찾는 게임/스트리밍이 없나요?"
+msgstr ""
+
+msgid "미꾸라지에서 지원하지 않는 게임/스트리밍을 사용하신다면 다음 중 하나의 방법을 사용하시기 바랍니다."
+msgstr ""
+
+msgid "Full VPN 모드를 사용하실 경우, 컴퓨터에서 발생되는 모든 트래픽을 지정한 미꾸라지 중계 서버를 통해 전달됩니다."
+msgstr ""
+
+msgid "Custom 아이템 제작"
+msgstr ""
+
+msgid "Custom 아이템 제작 기능을 이용하여 프로세스 및 운영체제 라우팅 테이블별로 지정할 수 있습니다."
+msgstr ""
+
+msgid "서버 위치 선택"
+msgstr ""
+
+msgid "중계 서버 선택"
+msgstr ""
 
 msgid "목적지 서버 위치"
 msgstr "Local do servidor de destino"
@@ -1230,9 +1403,6 @@ msgstr ""
 
 msgid "평가점수"
 msgstr "Avaliação"
-
-msgid "RTT 정보 조회"
-msgstr "Informações sobre RTT"
 
 msgid "최단 경로"
 msgstr "Caminho mais curto"
@@ -1364,9 +1534,6 @@ msgstr "Teste de firewall: porta UDP KR Asia (Coreia do Sul-KT2 IDC)"
 msgid "내부망 테스트: KR Asia (S. Korea - KT2 IDC)"
 msgstr "Teste de rede interna: KR Asia (Coreia do Sul-KT2 IDC)"
 
-msgid "프로세스"
-msgstr "processo"
-
 msgid "로딩중입니다."
 msgstr "A carregar..."
 
@@ -1375,9 +1542,6 @@ msgstr "Memória"
 
 msgid "프로세스 종료"
 msgstr "Encerramento do processo"
-
-msgid "설명"
-msgstr "Descrição do produto"
 
 msgid "호스트이름"
 msgstr "Nome do host"
@@ -1510,9 +1674,6 @@ msgstr "Página inicial do Somagu"
 
 msgid "미꾸라지 네트웍스 (주)"
 msgstr "Mudfish Networks Co., Ltd."
-
-msgid "메뉴"
-msgstr "menu"
 
 msgid "트래픽"
 msgstr "tráfego"
@@ -2209,3 +2370,4 @@ msgstr "Ocorreu um erro ao verificar o código de participação."
 
 msgid "미꾸라지 LAN 프로세스"
 msgstr "Mudfish LAN Processo"
+

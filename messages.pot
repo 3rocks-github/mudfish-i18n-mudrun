@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-04-08 15:46+0900\n"
+"POT-Creation-Date: 2021-04-26 15:18+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -51,6 +51,9 @@ msgstr ""
 msgid "패킷 덤프"
 msgstr ""
 
+msgid "프로세스 덤프"
+msgstr ""
+
 msgid "Matt's traceroute"
 msgstr ""
 
@@ -82,6 +85,12 @@ msgid "아이템 목록"
 msgstr ""
 
 msgid "아이템 관리"
+msgstr ""
+
+msgid "아이템 모드"
+msgstr ""
+
+msgid "아이템 마법사"
 msgstr ""
 
 msgid "Full VPN - 중계 서버 RTT 상황"
@@ -329,6 +338,18 @@ msgid ""
 " 설정을 다시 하시기 바랍니다."
 msgstr ""
 
+msgid "간단 설정"
+msgstr ""
+
+msgid "FastConnect 모드"
+msgstr ""
+
+msgid "Full VPN 모드"
+msgstr ""
+
+msgid "WFP 아이템 모드"
+msgstr ""
+
 msgid "상태"
 msgstr ""
 
@@ -348,12 +369,6 @@ msgid "종량제"
 msgstr ""
 
 msgid "요금제"
-msgstr ""
-
-msgid "FastConnect 모드"
-msgstr ""
-
-msgid "Full VPN 모드"
 msgstr ""
 
 msgid "현재 Public IP"
@@ -389,6 +404,95 @@ msgstr ""
 msgid "장착한 아이템이 없습니다."
 msgstr ""
 
+msgid "RTT 정보 조회"
+msgstr ""
+
+msgid "메뉴"
+msgstr ""
+
+msgid "오늘의 추천 경로"
+msgstr ""
+
+msgid "라우팅 정보"
+msgstr ""
+
+msgid "아이템 추가"
+msgstr ""
+
+msgid "추가하실 아이템의 종료를 선택해 주세요."
+msgstr ""
+
+msgid "미꾸라지에 이미 만들어져 있는 아이템을 리스트에 추가합니다."
+msgstr ""
+
+msgid "운영체제에서 실행될 프로세스 이름을 추가합니다."
+msgstr ""
+
+msgid "운영체제에서 세팅될 라우팅 테이블 정보를 추가합니다."
+msgstr ""
+
+msgid "프로세스 추가"
+msgstr ""
+
+msgid "현재 설정"
+msgstr ""
+
+msgid "실행중"
+msgstr ""
+
+msgid "직접 입력"
+msgstr ""
+
+msgid "설정된 프로세스가 없습니다."
+msgstr ""
+
+msgid "닫기"
+msgstr ""
+
+msgid "저장하기"
+msgstr ""
+
+msgid "라우팅테이블 추가"
+msgstr ""
+
+msgid "설정된 라우팅테이블 정보가 없습니다."
+msgstr ""
+
+msgid "목적지"
+msgstr ""
+
+msgid "계산중입니다. 잠시 후 다시 시도해 보시기 바랍니다."
+msgstr ""
+
+msgid "라우팅 경로"
+msgstr ""
+
+msgid ""
+"컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를 선택해 "
+"주세요."
+msgstr ""
+
+msgid "안내!"
+msgstr ""
+
+msgid "크레딧 없거나 혹은 Full VPN 을 사용할 권한이 없습니다."
+msgstr ""
+
+msgid "사용할 중계 서버를 선택하십시오."
+msgstr ""
+
+msgid "하나의 중계 서버를 경유하여 트래픽이 전달됩니다."
+msgstr ""
+
+msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr ""
+
+msgid "두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째 중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다."
+msgstr ""
+
+msgid "자동 선택"
+msgstr ""
+
 msgid "정기 점검 안내"
 msgstr ""
 
@@ -415,6 +519,27 @@ msgid ""
 "점검을 시작하게 되면 미꾸라지 중계 서버를 경유한 기존 게임 연결이 끊어질 수 있으며 로그인, 홈페이지 접속에 문제가 있을 수 있습니다."
 msgstr ""
 
+msgid "중계 서버 설정"
+msgstr ""
+
+msgid "선택하신 중계 서버로 변경되었습니다."
+msgstr ""
+
+msgid "처음 미꾸라지를 사용하시나요? 설정된 아이템이 없습니다. 아이템 마법사 기능으로 첫 아이템을 세팅해 보세요."
+msgstr ""
+
+msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
+msgstr ""
+
+msgid "프로세스"
+msgstr ""
+
+msgid "설정되지 않음"
+msgstr ""
+
+msgid "정말 삭제하시겠습니까?"
+msgstr ""
+
 msgid "연결 상태"
 msgstr ""
 
@@ -428,6 +553,24 @@ msgid "현재 미꾸라지 프로그램이 실행중이 아닙니다."
 msgstr ""
 
 msgid "연결하기"
+msgstr ""
+
+msgid "요약"
+msgstr ""
+
+msgid "연결 방식"
+msgstr ""
+
+msgid "Full VPN 기반"
+msgstr ""
+
+msgid "아이템 기반"
+msgstr ""
+
+msgid "적용 아이템"
+msgstr ""
+
+msgid "적용할 아이템이 없습니다."
 msgstr ""
 
 msgid "기본 설정"
@@ -516,17 +659,6 @@ msgstr ""
 msgid "RTT 표준편차"
 msgstr ""
 
-msgid ""
-"컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를 선택해 "
-"주세요."
-msgstr ""
-
-msgid "안내!"
-msgstr ""
-
-msgid "크레딧 없거나 혹은 Full VPN 을 사용할 권한이 없습니다."
-msgstr ""
-
 msgid "중계 서버 목록"
 msgstr ""
 
@@ -591,9 +723,6 @@ msgstr ""
 msgid "연결 프로토콜이 TCP인 아이템에만 도움을 줍니다."
 msgstr ""
 
-msgid "WFP 아이템 모드"
-msgstr ""
-
 msgid ""
 "아이템 이용시, 가능하다면 윈도우의 WFP(Windows Filtering Platform) 기능을 이용하여 라우팅 테이블 기반 대신 "
 "프로세스 기반 방식으로 작동하도록 구성합니다."
@@ -611,6 +740,18 @@ msgid "자동 연결"
 msgstr ""
 
 msgid "미꾸라지 Launcher 가 로그인 후 자동으로 중계 서버에 연결하도록 구성합니다. 기본값은 Off 입니다."
+msgstr ""
+
+msgid "아이템 설정 모드"
+msgstr ""
+
+msgid "아이템 설정을 위한 모드를 설정합니다."
+msgstr ""
+
+msgid "심플"
+msgstr ""
+
+msgid "기본"
 msgstr ""
 
 msgid "배경화면"
@@ -743,9 +884,6 @@ msgstr ""
 msgid "패킷 덤프의 내용을 간략하게 설명해 주세요."
 msgstr ""
 
-msgid "닫기"
-msgstr ""
-
 msgid "패킷 덤프 중입니다."
 msgstr ""
 
@@ -759,6 +897,24 @@ msgid "다음 링크에서 덤프를 확인할 수 있습니다."
 msgstr ""
 
 msgid "패킷 덤프 주제글"
+msgstr ""
+
+msgid "운영체제에서 실행되고 종료되는 프로세스 이름을 덤프하는 기능입니다."
+msgstr ""
+
+msgid "프로세스 갯수"
+msgstr ""
+
+msgid "덤프 업로드"
+msgstr ""
+
+msgid "프로세스 덤프의 내용을 간략하게 설명해 주세요."
+msgstr ""
+
+msgid "프로세스 덤프 중입니다."
+msgstr ""
+
+msgid "프로세스 덤프 주제글"
 msgstr ""
 
 msgid ""
@@ -813,7 +969,7 @@ msgstr ""
 msgid "MTR 기능이 지원되지 않는 운영체제입니다."
 msgstr ""
 
-msgid "저장하기"
+msgid "설명"
 msgstr ""
 
 msgid "아이템은 <strong>한달</strong> 동안 유효합니다."
@@ -834,6 +990,9 @@ msgstr ""
 msgid ""
 "이 아이템의 경우 CDN (Content Delivery Network) 관련 라우팅 정보를 포함하고 있습니다. 미꾸라지가 켜져 있는 "
 "상태에서 파일 다운로드나 스트리밍을 할 경우 의도치 않게 크레딧이 많이 차감될 수 있습니다."
+msgstr ""
+
+msgid "설정"
 msgstr ""
 
 msgid "자동 갱신"
@@ -865,18 +1024,6 @@ msgstr ""
 msgid "공식 서버"
 msgstr ""
 
-msgid "사용할 중계 서버를 선택하십시오."
-msgstr ""
-
-msgid "하나의 중계 서버를 경유하여 트래픽이 전달됩니다."
-msgstr ""
-
-msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
-msgstr ""
-
-msgid "두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째 중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다."
-msgstr ""
-
 msgid "정말로 구매하시겠습니까?"
 msgstr ""
 
@@ -884,12 +1031,6 @@ msgid "아이템 구매하기"
 msgstr ""
 
 msgid "무료"
-msgstr ""
-
-msgid "설정"
-msgstr ""
-
-msgid "선택하신 중계 서버로 변경되었습니다."
 msgstr ""
 
 msgid "오늘의 추천 경로 계산시 사용되는 RTT 정보가 1 시간 이상 오래된 정보를 기준으로 하니 참고 바랍니다.."
@@ -910,22 +1051,22 @@ msgstr ""
 msgid "아이템 Export"
 msgstr ""
 
-msgid "오늘의 추천 경로"
+msgid "아이템 삭제"
+msgstr ""
+
+msgid "목적지를 찾을 수 없습니다."
+msgstr ""
+
+msgid "Custom 아이템의 경우, '아이템 수정' 메뉴에서 목적지를 입력하실 수 있습니다."
 msgstr ""
 
 msgid "계산된 최적의 미꾸라지 중계 서버 이용 경로들이며, 예상 RTT 평균과 편차 정보입니다."
-msgstr ""
-
-msgid "목적지"
 msgstr ""
 
 msgid "계산 시각"
 msgstr ""
 
 msgid "최단 경로 업데이트"
-msgstr ""
-
-msgid "라우팅 경로"
 msgstr ""
 
 msgid "현재 계산된 추천 경로가 없습니다."
@@ -949,9 +1090,6 @@ msgstr ""
 msgid "기간 연장"
 msgstr ""
 
-msgid "아이템 삭제"
-msgstr ""
-
 msgid "정말 기간 연장 하겠습니까?"
 msgstr ""
 
@@ -959,9 +1097,6 @@ msgid "주의 사항"
 msgstr ""
 
 msgid "남은 시간에 31 일이 추가됩니다."
-msgstr ""
-
-msgid "정말 삭제하시겠습니까?"
 msgstr ""
 
 msgid "남은 기간은 크레딧으로 환불되지 않습니다."
@@ -1065,7 +1200,46 @@ msgstr ""
 msgid "JSON 오류"
 msgstr ""
 
-msgid "자동 선택"
+msgid "아이템 모드 설정"
+msgstr ""
+
+msgid "아이템 설정 모드 변경을 하고자 한다면, '설정 -> 프로그램' 메뉴에 있는 Launcher 탭에서 변경하실 수 있습니다."
+msgstr ""
+
+msgid "아이템 설정 및 구성을 최대한 단순화 시킨 모드입니다."
+msgstr ""
+
+msgid "기존 미꾸라지 아이템 설정 방법입니다."
+msgstr ""
+
+msgid "안녕하세요!"
+msgstr ""
+
+msgid "아이템 선택"
+msgstr ""
+
+msgid "미꾸라지를 처음 사용하시는 분들을 위한 아이템 설정 마법사 화면입니다. 플레이하고자 하는 게임/스트리밍을 선택해 주세요."
+msgstr ""
+
+msgid "찾는 게임/스트리밍이 없나요?"
+msgstr ""
+
+msgid "미꾸라지에서 지원하지 않는 게임/스트리밍을 사용하신다면 다음 중 하나의 방법을 사용하시기 바랍니다."
+msgstr ""
+
+msgid "Full VPN 모드를 사용하실 경우, 컴퓨터에서 발생되는 모든 트래픽을 지정한 미꾸라지 중계 서버를 통해 전달됩니다."
+msgstr ""
+
+msgid "Custom 아이템 제작"
+msgstr ""
+
+msgid "Custom 아이템 제작 기능을 이용하여 프로세스 및 운영체제 라우팅 테이블별로 지정할 수 있습니다."
+msgstr ""
+
+msgid "서버 위치 선택"
+msgstr ""
+
+msgid "중계 서버 선택"
 msgstr ""
 
 msgid "목적지 서버 위치"
@@ -1101,9 +1275,6 @@ msgid ""
 msgstr ""
 
 msgid "평가점수"
-msgstr ""
-
-msgid "RTT 정보 조회"
 msgstr ""
 
 msgid "최단 경로"
@@ -1220,9 +1391,6 @@ msgstr ""
 msgid "내부망 테스트: KR Asia (S. Korea - KT2 IDC)"
 msgstr ""
 
-msgid "프로세스"
-msgstr ""
-
 msgid "로딩중입니다."
 msgstr ""
 
@@ -1230,9 +1398,6 @@ msgid "메모리"
 msgstr ""
 
 msgid "프로세스 종료"
-msgstr ""
-
-msgid "설명"
 msgstr ""
 
 msgid "호스트이름"
@@ -1358,9 +1523,6 @@ msgid "소마구 홈페이지"
 msgstr ""
 
 msgid "미꾸라지 네트웍스 (주)"
-msgstr ""
-
-msgid "메뉴"
 msgstr ""
 
 msgid "트래픽"
