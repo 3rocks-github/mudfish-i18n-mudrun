@@ -6,15 +6,16 @@ msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
 "POT-Creation-Date: 2021-04-26 15:59+0900\n"
-"PO-Revision-Date: 2021-04-08 06:54+0000\n"
+"PO-Revision-Date: 2021-04-26 08:00+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
+"Language-Team: Malay <https://weblate.mudfish.net/projects/mudfish/launcher/"
+"ms/>\n"
 "Language: ms\n"
-"Language-Team: Malay "
-"<https://weblate.mudfish.net/projects/mudfish/launcher/ms/>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -57,7 +58,7 @@ msgid "패킷 덤프"
 msgstr "Pembuangan Paket"
 
 msgid "프로세스 덤프"
-msgstr ""
+msgstr "Proses pembuangan"
 
 msgid "Matt's traceroute"
 msgstr "Matt's traceroute"
@@ -93,10 +94,10 @@ msgid "아이템 관리"
 msgstr "Uruskan Item"
 
 msgid "아이템 모드"
-msgstr ""
+msgstr "Mod item"
 
 msgid "아이템 마법사"
-msgstr ""
+msgstr "Penyihir Item"
 
 msgid "Full VPN - 중계 서버 RTT 상황"
 msgstr "Full VPN - RTT status of mudfish nodes"
@@ -367,7 +368,7 @@ msgstr ""
 " again."
 
 msgid "간단 설정"
-msgstr ""
+msgstr "Persediaan yang mudah"
 
 msgid "FastConnect 모드"
 msgstr "Mod FastConnect"
@@ -444,46 +445,46 @@ msgid "오늘의 추천 경로"
 msgstr "Laluan Hari Ini"
 
 msgid "라우팅 정보"
-msgstr ""
+msgstr "Maklumat penghalaan"
 
 msgid "아이템 추가"
-msgstr ""
+msgstr "Tambah Item"
 
 msgid "추가하실 아이템의 종류를 선택해 주세요."
-msgstr ""
+msgstr "Sila pilih jenis item yang akan ditambahkan."
 
 msgid "미꾸라지 아이템 추가"
-msgstr ""
+msgstr "Menambah item loach"
 
 msgid "미꾸라지에 이미 만들어져 있는 아이템을 리스트에 추가합니다."
-msgstr ""
+msgstr "Menambah item yang sudah dibuat dalam senarai ke senarai."
 
 msgid "프로세스 추가"
-msgstr ""
+msgstr "Proses tambah"
 
 msgid "운영체제에서 실행될 프로세스 이름을 추가합니다."
-msgstr ""
+msgstr "Tambahkan nama proses yang akan dijalankan pada sistem operasi."
 
 msgid "라우팅테이블 추가"
-msgstr ""
+msgstr "Tambah jadual penghalaan"
 
 msgid "운영체제에서 세팅될 라우팅 테이블 정보를 추가합니다."
-msgstr ""
+msgstr "Tambahkan maklumat jadual penghalaan untuk diatur dalam sistem operasi."
 
 msgid "추가하실 프로세스 이름을 선택해 주세요."
-msgstr ""
+msgstr "Sila pilih nama proses untuk ditambahkan."
 
 msgid "현재 설정"
-msgstr ""
+msgstr "Tetapan semasa"
 
 msgid "실행중"
-msgstr ""
+msgstr "Berlari"
 
 msgid "직접 입력"
-msgstr ""
+msgstr "Input langsung"
 
 msgid "설정된 프로세스가 없습니다."
-msgstr ""
+msgstr "Tidak ada proses yang disiapkan."
 
 msgid "닫기"
 msgstr "Tutup"
@@ -492,16 +493,16 @@ msgid "저장하기"
 msgstr "Simpan"
 
 msgid "추가하실 라우팅테이블 정보를 입력해 주세요."
-msgstr ""
+msgstr "Masukkan maklumat jadual penghalaan yang akan ditambahkan."
 
 msgid "설정된 라우팅테이블 정보가 없습니다."
-msgstr ""
+msgstr "Tidak ada set maklumat jadual penghalaan."
 
 msgid "목적지"
 msgstr "Destinasi"
 
 msgid "계산중입니다. 잠시 후 다시 시도해 보시기 바랍니다."
-msgstr ""
+msgstr "Ia sedang dikira. Sila cuba sebentar lagi."
 
 msgid "라우팅 경로"
 msgstr "Jalan Penghalaan"
@@ -568,22 +569,24 @@ msgstr ""
 "secara paksa."
 
 msgid "중계 서버 설정"
-msgstr ""
+msgstr "Tetapan pelayan geganti"
 
 msgid "선택하신 중계 서버로 변경되었습니다."
 msgstr "Changed the mudfish node."
 
 msgid "처음 미꾸라지를 사용하시나요? 설정된 아이템이 없습니다. 아이템 마법사 기능으로 첫 아이템을 세팅해 보세요."
 msgstr ""
+"Adakah anda menggunakan loach untuk pertama kalinya? Tidak ada item yang "
+"ditetapkan. Cuba tetapkan item pertama anda dengan fungsi Item Wizard."
 
 msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
-msgstr ""
+msgstr "Tiada item yang aktif. Berhenti berlari."
 
 msgid "프로세스"
 msgstr "Proses"
 
 msgid "설정되지 않음"
-msgstr ""
+msgstr "Tidak ditetapkan"
 
 msgid "정말 삭제하시겠습니까?"
 msgstr "Adakah anda pasti anda mahu memadam?"
@@ -604,22 +607,22 @@ msgid "연결하기"
 msgstr "Connect"
 
 msgid "요약"
-msgstr ""
+msgstr "ringkasan"
 
 msgid "연결 방식"
-msgstr ""
+msgstr "Kaedah penyambungan"
 
 msgid "Full VPN 기반"
-msgstr ""
+msgstr "Berasaskan VPN penuh"
 
 msgid "아이템 기반"
-msgstr ""
+msgstr "Berdasarkan item"
 
 msgid "적용 아이템"
-msgstr ""
+msgstr "Item yang berkenaan"
 
 msgid "적용할 아이템이 없습니다."
-msgstr ""
+msgstr "Tidak ada barang yang boleh digunakan."
 
 msgid "기본 설정"
 msgstr "Umum"
@@ -817,16 +820,16 @@ msgstr ""
 "is off."
 
 msgid "아이템 설정 모드"
-msgstr ""
+msgstr "Mod tetapan item"
 
 msgid "아이템 설정을 위한 모드를 설정합니다."
-msgstr ""
+msgstr "Tetapkan mod untuk menetapkan item."
 
 msgid "심플"
-msgstr ""
+msgstr "sederhana"
 
 msgid "기본"
-msgstr ""
+msgstr "asas"
 
 msgid "배경화면"
 msgstr "Wallpaper"
@@ -985,21 +988,23 @@ msgstr "Topik pembuangan paket"
 
 msgid "운영체제에서 실행되고 종료되는 프로세스 이름을 덤프하는 기능입니다."
 msgstr ""
+"Fungsi ini membuang nama proses yang berjalan dan ditamatkan dalam sistem "
+"operasi."
 
 msgid "프로세스 갯수"
-msgstr ""
+msgstr "Bilangan proses"
 
 msgid "덤프 업로드"
-msgstr ""
+msgstr "Muat naik sampah"
 
 msgid "프로세스 덤프의 내용을 간략하게 설명해 주세요."
-msgstr ""
+msgstr "Sila terangkan secara ringkas isi proses pembuangan."
 
 msgid "프로세스 덤프 중입니다."
-msgstr ""
+msgstr "Membuang proses."
 
 msgid "프로세스 덤프 주제글"
-msgstr ""
+msgstr "Memproses topik pembuangan"
 
 msgid ""
 "<a href='https://en.wikipedia.org/wiki/MTR_(software)' "
@@ -1155,10 +1160,11 @@ msgid "아이템 삭제"
 msgstr "Padam Item"
 
 msgid "목적지를 찾을 수 없습니다."
-msgstr ""
+msgstr "Destinasi tidak dijumpai."
 
 msgid "Custom 아이템의 경우, '아이템 수정' 메뉴에서 목적지를 입력하실 수 있습니다."
 msgstr ""
+"Untuk item tersuai, anda boleh memasukkan destinasi dalam menu 'Edit Item'."
 
 msgid "계산된 최적의 미꾸라지 중계 서버 이용 경로들이며, 예상 RTT 평균과 편차 정보입니다."
 msgstr ""
@@ -1311,46 +1317,58 @@ msgid "JSON 오류"
 msgstr "Kesalahan JSON"
 
 msgid "아이템 모드 설정"
-msgstr ""
+msgstr "Tetapan mod item"
 
 msgid "아이템 설정 모드 변경을 하고자 한다면, '설정 -> 프로그램' 메뉴에 있는 Launcher 탭에서 변경하실 수 있습니다."
 msgstr ""
+"Sekiranya anda ingin mengubah mod tetapan item, anda boleh melakukannya di "
+"tab Pelancar di menu 'Setting -> Programs'."
 
 msgid "아이템 설정 및 구성을 최대한 단순화 시킨 모드입니다."
 msgstr ""
+"Ini adalah mod yang mempermudah tetapan dan konfigurasi item sebanyak "
+"mungkin."
 
 msgid "기존 미꾸라지 아이템 설정 방법입니다."
-msgstr ""
+msgstr "Ini adalah cara menetapkan item loach yang ada."
 
 msgid "안녕하세요!"
-msgstr ""
+msgstr "Selamat Pagi!"
 
 msgid "아이템 선택"
-msgstr ""
+msgstr "Pilih barang"
 
 msgid "서버 위치 선택"
-msgstr ""
+msgstr "Pilih lokasi pelayan"
 
 msgid "중계 서버 선택"
-msgstr ""
+msgstr "Pemilihan pelayan geganti"
 
 msgid "미꾸라지를 처음 사용하시는 분들을 위한 아이템 설정 마법사 화면입니다. 플레이하고자 하는 게임/스트리밍을 선택해 주세요."
 msgstr ""
+"Ini adalah skrin penyusun item untuk mereka yang baru mengenal. Sila pilih "
+"permainan / streaming yang ingin anda mainkan."
 
 msgid "찾는 게임/스트리밍이 없나요?"
-msgstr ""
+msgstr "Tiada permainan / streaming yang anda cari?"
 
 msgid "미꾸라지에서 지원하지 않는 게임/스트리밍을 사용하신다면 다음 중 하나의 방법을 사용하시기 바랍니다."
 msgstr ""
+"Sekiranya anda menggunakan permainan / streaming yang tidak disokong oleh "
+"Loach, gunakan salah satu kaedah berikut."
 
 msgid "Full VPN 모드를 사용하실 경우, 컴퓨터에서 발생되는 모든 트래픽을 지정한 미꾸라지 중계 서버를 통해 전달됩니다."
 msgstr ""
+"Semasa menggunakan mod VPN Penuh, semua lalu lintas yang dihasilkan dari "
+"komputer dihantar melalui pelayan relay loach yang ditentukan."
 
 msgid "Custom 아이템 제작"
-msgstr ""
+msgstr "Pembuatan item tersuai"
 
 msgid "Custom 아이템 제작 기능을 이용하여 프로세스 및 운영체제 라우팅 테이블별로 지정할 수 있습니다."
 msgstr ""
+"Anda dapat menentukan setiap jadual dan sistem penghalaan sistem operasi "
+"dengan menggunakan fungsi pembuatan item khusus."
 
 msgid "목적지 서버 위치"
 msgstr "Server Destinasi"
@@ -2293,29 +2311,31 @@ msgstr "Dark Souls Ⅱ: Scholar of the First Sin"
 msgid "피파 20"
 msgstr "FIFA 20"
 
+#, fuzzy
 msgid "열혈강호 온라인"
-msgstr ""
+msgstr "열혈강호 온라인"
 
 msgid "리니지2M"
-msgstr ""
+msgstr "Lineage 2M"
 
+#, fuzzy
 msgid "古劍奇譚網路版"
-msgstr ""
+msgstr "古劍奇譚網路版"
 
 msgid "아스가르드"
-msgstr ""
+msgstr "Asgard"
 
 msgid "라그하임"
-msgstr ""
+msgstr "Laghaim"
 
 msgid "프로야구 스피리츠 2019"
-msgstr ""
+msgstr "Professional Baseball Spirits 2019"
 
 msgid "그랑블루 판타지 Versus"
-msgstr ""
+msgstr "Granblue Fantasy Versus"
 
 msgid "피파 21"
-msgstr ""
+msgstr "FIFA 21"
 
 msgid "모여서 플레이할 중계 서버를 선택합니다."
 msgstr "Pilih pelayan geganti untuk dikumpulkan dan dimainkan."
@@ -2381,4 +2401,3 @@ msgstr "Mudfish LAN process"
 
 #~ msgid "스톤에이지"
 #~ msgstr "StoneAge"
-
