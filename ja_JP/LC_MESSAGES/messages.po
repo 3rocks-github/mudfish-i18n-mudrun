@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-04-26 15:18+0900\n"
+"POT-Creation-Date: 2021-04-26 15:24+0900\n"
 "PO-Revision-Date: 2021-04-08 06:54+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
 "Language: ja_JP\n"
@@ -443,7 +443,7 @@ msgstr ""
 msgid "아이템 추가"
 msgstr ""
 
-msgid "추가하실 아이템의 종료를 선택해 주세요."
+msgid "추가하실 아이템의 종류를 선택해 주세요."
 msgstr ""
 
 msgid "미꾸라지에 이미 만들어져 있는 아이템을 리스트에 추가합니다."
@@ -456,6 +456,9 @@ msgid "운영체제에서 세팅될 라우팅 테이블 정보를 추가합니�
 msgstr ""
 
 msgid "프로세스 추가"
+msgstr ""
+
+msgid "추가하실 프로세스 이름을 선택해 주세요."
 msgstr ""
 
 msgid "현재 설정"
@@ -477,6 +480,9 @@ msgid "저장하기"
 msgstr "保存"
 
 msgid "라우팅테이블 추가"
+msgstr ""
+
+msgid "추가하실 라우팅테이블 정보를 입력해 주세요."
 msgstr ""
 
 msgid "설정된 라우팅테이블 정보가 없습니다."
@@ -2288,4 +2294,7 @@ msgstr "参加コードを確認中にエラーが発生しました。"
 
 msgid "미꾸라지 LAN 프로세스"
 msgstr "ドジョウLANプロセス"
+
+#~ msgid "추가하실 아이템의 종료를 선택해 주세요."
+#~ msgstr ""
 
