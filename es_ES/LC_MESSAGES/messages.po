@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-04-26 15:26+0900\n"
+"POT-Creation-Date: 2021-04-26 15:59+0900\n"
 "PO-Revision-Date: 2021-04-08 06:54+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
 "Language: es_ES\n"
@@ -455,16 +455,22 @@ msgstr ""
 msgid "추가하실 아이템의 종류를 선택해 주세요."
 msgstr ""
 
+msgid "미꾸라지 아이템 추가"
+msgstr ""
+
 msgid "미꾸라지에 이미 만들어져 있는 아이템을 리스트에 추가합니다."
+msgstr ""
+
+msgid "프로세스 추가"
 msgstr ""
 
 msgid "운영체제에서 실행될 프로세스 이름을 추가합니다."
 msgstr ""
 
-msgid "운영체제에서 세팅될 라우팅 테이블 정보를 추가합니다."
+msgid "라우팅테이블 추가"
 msgstr ""
 
-msgid "프로세스 추가"
+msgid "운영체제에서 세팅될 라우팅 테이블 정보를 추가합니다."
 msgstr ""
 
 msgid "추가하실 프로세스 이름을 선택해 주세요."
@@ -487,9 +493,6 @@ msgstr "Cerrar"
 
 msgid "저장하기"
 msgstr "Guardar"
-
-msgid "라우팅테이블 추가"
-msgstr ""
 
 msgid "추가하실 라우팅테이블 정보를 입력해 주세요."
 msgstr ""
@@ -1349,6 +1352,12 @@ msgstr ""
 msgid "아이템 선택"
 msgstr ""
 
+msgid "서버 위치 선택"
+msgstr ""
+
+msgid "중계 서버 선택"
+msgstr ""
+
 msgid "미꾸라지를 처음 사용하시는 분들을 위한 아이템 설정 마법사 화면입니다. 플레이하고자 하는 게임/스트리밍을 선택해 주세요."
 msgstr ""
 
@@ -1365,12 +1374,6 @@ msgid "Custom 아이템 제작"
 msgstr ""
 
 msgid "Custom 아이템 제작 기능을 이용하여 프로세스 및 운영체제 라우팅 테이블별로 지정할 수 있습니다."
-msgstr ""
-
-msgid "서버 위치 선택"
-msgstr ""
-
-msgid "중계 서버 선택"
 msgstr ""
 
 msgid "목적지 서버 위치"
@@ -2294,9 +2297,6 @@ msgstr "Battlefield V"
 msgid "피파 19"
 msgstr "FIFA 19"
 
-msgid "아스텔리아"
-msgstr "Astellia"
-
 msgid "에버퀘스트 I"
 msgstr "EverQuest I"
 
@@ -2309,9 +2309,6 @@ msgstr "Laftel"
 msgid "왓챠"
 msgstr "Watcha"
 
-msgid "스톤에이지"
-msgstr "StoneAge"
-
 msgid "무도유협"
 msgstr "무도유협"
 
@@ -2320,6 +2317,30 @@ msgstr "Dark Souls Ⅱ: Scholar of the First Sin"
 
 msgid "피파 20"
 msgstr "FIFA 20"
+
+msgid "열혈강호 온라인"
+msgstr ""
+
+msgid "리니지2M"
+msgstr ""
+
+msgid "古劍奇譚網路版"
+msgstr ""
+
+msgid "아스가르드"
+msgstr ""
+
+msgid "라그하임"
+msgstr ""
+
+msgid "프로야구 스피리츠 2019"
+msgstr ""
+
+msgid "그랑블루 판타지 Versus"
+msgstr ""
+
+msgid "피파 21"
+msgstr ""
 
 msgid "모여서 플레이할 중계 서버를 선택합니다."
 msgstr "Seleccione un servidor de retransmisiones para reunirse y jugar."
@@ -2379,4 +2400,10 @@ msgstr "Mudfish LAN process"
 
 #~ msgid "추가하실 아이템의 종료를 선택해 주세요."
 #~ msgstr ""
+
+#~ msgid "아스텔리아"
+#~ msgstr "Astellia"
+
+#~ msgid "스톤에이지"
+#~ msgstr "StoneAge"
 
