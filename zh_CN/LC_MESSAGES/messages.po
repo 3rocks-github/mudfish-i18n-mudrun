@@ -6,17 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-04-26 15:59+0900\n"
+"POT-Creation-Date: 2021-05-10 23:22+0900\n"
 "PO-Revision-Date: 2021-04-26 08:00+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://weblate.mudfish.net/projects/"
-"mudfish/launcher/zh_Hans/>\n"
 "Language: zh_CN\n"
+"Language-Team: Chinese (Simplified) "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/zh_Hans/>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -84,6 +83,9 @@ msgstr "物品RTT状态 - 专业模式"
 
 msgid "아이템 RTT 상황 - Multi Path 모드"
 msgstr "物品RTT状态-多路径模式"
+
+msgid "RTT 정보 조회"
+msgstr "查看RTT信息"
 
 msgid "Custom 아이템"
 msgstr "定制物品"
@@ -417,14 +419,17 @@ msgstr "已选择Mudfish服务器"
 msgid "장착한 아이템이 없습니다."
 msgstr "未装备物品"
 
-msgid "RTT 정보 조회"
-msgstr "查看RTT信息"
-
 msgid "메뉴"
 msgstr "菜单"
 
 msgid "오늘의 추천 경로"
 msgstr "今天的路由"
+
+msgid "설정"
+msgstr "设置"
+
+msgid "사용 여부"
+msgstr "是否装备"
 
 msgid "라우팅 정보"
 msgstr "路由信息"
@@ -550,6 +555,12 @@ msgstr "已更改为选定的服务器。"
 msgid "처음 미꾸라지를 사용하시나요? 설정된 아이템이 없습니다. 아이템 마법사 기능으로 첫 아이템을 세팅해 보세요."
 msgstr "您是第一次使用它吗？没有设置项目。尝试使用“项目向导”功能设置您的第一个项目。"
 
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr "需要重应用"
+
+msgid "설정 구성을 시작합니다."
+msgstr "启动自动配置。"
+
 msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
 msgstr "当前没有任何项目处于活动状态。别再跑了。"
 
@@ -606,12 +617,6 @@ msgstr "错误的设置"
 
 msgid "잘못된 MTU 값입니다. MTU 값은 최소 576, 최대 1450 까지 설정 가능합니다."
 msgstr "MTU值无效。 MTU值可以设置为最小值576和最大值1450。"
-
-msgid "프로그램을 재시작하셔야 적용됩니다."
-msgstr "需要重应用"
-
-msgid "설정 구성을 시작합니다."
-msgstr "启动自动配置。"
 
 msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
 msgstr "在完整VPN模式上，只能选择一台服务器。"
@@ -1023,9 +1028,6 @@ msgid ""
 "있는 상태에서 파일 다운로드나 스트리밍을 할 경우 의도치 않게 크레딧이 많이 차감될 수 있습니다."
 msgstr "此物品的路由表里包含CDN(Content Delivery Network)有关信息，下载大容量数据或串流视频时也许耗费流量和你的鳅币。"
 
-msgid "설정"
-msgstr "设置"
-
 msgid "자동 갱신"
 msgstr "自动刷新"
 
@@ -1110,9 +1112,6 @@ msgstr "选择中继服务器模式和要使用的中继服务器。"
 
 msgid "설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변경되지 않습니다."
 msgstr "一旦安装配置完成，所选的中继服务器将不会在中间更改。"
-
-msgid "사용 여부"
-msgstr "是否装备"
 
 msgid "아이템 사용 여부를 선택합니다."
 msgstr "选择是否装备物品。"
@@ -1330,6 +1329,9 @@ msgstr "错误"
 
 msgid "혼잡도"
 msgstr "拥塞"
+
+msgid "아래에서 아이템을 선택해 주세요."
+msgstr ""
 
 msgid "목록 제한"
 msgstr "管理服务器名单"
@@ -2276,3 +2278,4 @@ msgstr "Mudfish LAN process"
 
 #~ msgid "스톤에이지"
 #~ msgstr "StoneAge"
+

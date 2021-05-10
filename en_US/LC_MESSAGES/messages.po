@@ -6,17 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-04-26 15:59+0900\n"
+"POT-Creation-Date: 2021-05-10 23:22+0900\n"
 "PO-Revision-Date: 2021-04-26 08:00+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: English (United States) <https://weblate.mudfish.net/projects/"
-"mudfish/launcher/en_US/>\n"
 "Language: en_US\n"
+"Language-Team: English (United States) "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/en_US/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -84,6 +83,9 @@ msgstr "Item RTT Status - Advanced Mode"
 
 msgid "아이템 RTT 상황 - Multi Path 모드"
 msgstr "Item RTT Status - Multi Path Mode"
+
+msgid "RTT 정보 조회"
+msgstr "RTT Information Inquiry"
 
 msgid "Custom 아이템"
 msgstr "Custom Item"
@@ -434,14 +436,17 @@ msgstr "Selected Mudfish Node"
 msgid "장착한 아이템이 없습니다."
 msgstr "No items bought."
 
-msgid "RTT 정보 조회"
-msgstr "RTT Information Inquiry"
-
 msgid "메뉴"
 msgstr "Menu"
 
 msgid "오늘의 추천 경로"
 msgstr "Today's Pathes"
+
+msgid "설정"
+msgstr "Setup"
+
+msgid "사용 여부"
+msgstr "Active"
 
 msgid "라우팅 정보"
 msgstr "Routing information"
@@ -577,6 +582,12 @@ msgstr ""
 "Are you using mudfish for the first time? There are no items set. Try "
 "setting your first item with the Item Wizard function."
 
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr "You need to restart the program for applying."
+
+msgid "설정 구성을 시작합니다."
+msgstr "Starting the auto configuration."
+
 msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
 msgstr "No items are currently active. Stop running."
 
@@ -635,12 +646,6 @@ msgid "잘못된 MTU 값입니다. MTU 값은 최소 576, 최대 1450 까지 설
 msgstr ""
 "Invalid MTU value. The MTU value can be set from 576 minimum and 1450 "
 "maximum."
-
-msgid "프로그램을 재시작하셔야 적용됩니다."
-msgstr "You need to restart the program for applying."
-
-msgid "설정 구성을 시작합니다."
-msgstr "Starting the auto configuration."
 
 msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
 msgstr "Only one node for full VPN mode should be set."
@@ -1084,9 +1089,6 @@ msgstr ""
 "abnormally if you try to download a big file or do streaming while "
 "Mudfish is running."
 
-msgid "설정"
-msgstr "Setup"
-
 msgid "자동 갱신"
 msgstr "Auto Refresh"
 
@@ -1181,9 +1183,6 @@ msgid "설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변�
 msgstr ""
 "Once setup configuration is complete, the selected mudfish node will not "
 "change in the middle."
-
-msgid "사용 여부"
-msgstr "Active"
 
 msgid "아이템 사용 여부를 선택합니다."
 msgstr ""
@@ -1425,6 +1424,9 @@ msgstr "Error"
 
 msgid "혼잡도"
 msgstr "Congestion"
+
+msgid "아래에서 아이템을 선택해 주세요."
+msgstr ""
 
 msgid "목록 제한"
 msgstr "Node Manager"
@@ -2395,3 +2397,4 @@ msgstr "Mudfish LAN process"
 
 #~ msgid "스톤에이지"
 #~ msgstr "StoneAge"
+

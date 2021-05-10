@@ -5,17 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-04-26 15:59+0900\n"
+"POT-Creation-Date: 2021-05-10 23:22+0900\n"
 "PO-Revision-Date: 2021-04-26 08:00+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Japanese <https://weblate.mudfish.net/projects/mudfish/"
-"launcher/ja/>\n"
 "Language: ja_JP\n"
+"Language-Team: Japanese "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/ja/>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -83,6 +82,9 @@ msgstr "Item RTT Status - Advanced Mode"
 
 msgid "아이템 RTT 상황 - Multi Path 모드"
 msgstr "Item RTT Status - Multi Pathモード"
+
+msgid "RTT 정보 조회"
+msgstr "RTT情報照会"
 
 msgid "Custom 아이템"
 msgstr "Custom アイテム"
@@ -429,14 +431,17 @@ msgstr "選択されたマッドフィッシュノード"
 msgid "장착한 아이템이 없습니다."
 msgstr "アイテムは購入されていません。"
 
-msgid "RTT 정보 조회"
-msgstr "RTT情報照会"
-
 msgid "메뉴"
 msgstr "メニュー"
 
 msgid "오늘의 추천 경로"
 msgstr "今日のパス"
+
+msgid "설정"
+msgstr "セットアップ"
+
+msgid "사용 여부"
+msgstr "アクティブ"
 
 msgid "라우팅 정보"
 msgstr "ルーティング情報"
@@ -562,6 +567,12 @@ msgstr "Changed the mudfish node."
 msgid "처음 미꾸라지를 사용하시나요? 설정된 아이템이 없습니다. 아이템 마법사 기능으로 첫 아이템을 세팅해 보세요."
 msgstr "初めてドジョウを使用？設定されたアイテムがありません。アイテムウィザード機能で最初のアイテムをセットしてください。"
 
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr "適用するためにプログラムを再起動する必要があります。"
+
+msgid "설정 구성을 시작합니다."
+msgstr "自動構成を開始します。"
+
 msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
 msgstr "現在アクティブなアイテムがありません。実行を停止します。"
 
@@ -618,12 +629,6 @@ msgstr "Wrong configuration"
 
 msgid "잘못된 MTU 값입니다. MTU 값은 최소 576, 최대 1450 까지 설정 가능합니다."
 msgstr "不適切MTU値です。 MTUの値は、最小576、最大1450まで設定可能です。"
-
-msgid "프로그램을 재시작하셔야 적용됩니다."
-msgstr "適用するためにプログラムを再起動する必要があります。"
-
-msgid "설정 구성을 시작합니다."
-msgstr "自動構成を開始します。"
 
 msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
 msgstr "Only one node for full VPN mode should be set."
@@ -1054,9 +1059,6 @@ msgstr ""
 "abnormally if you try to download a big file or do streaming while "
 "Mudfish is running."
 
-msgid "설정"
-msgstr "セットアップ"
-
 msgid "자동 갱신"
 msgstr "自動更新"
 
@@ -1141,9 +1143,6 @@ msgstr "使用中継サーバモードと中継サーバを選択します。"
 
 msgid "설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변경되지 않습니다."
 msgstr "設定完了後、一度選択された中継サーバは、中間に変更されません。"
-
-msgid "사용 여부"
-msgstr "アクティブ"
 
 msgid "아이템 사용 여부를 선택합니다."
 msgstr "アイテムを使用するかどうかを選択します。"
@@ -1363,6 +1362,9 @@ msgstr "エラー"
 
 msgid "혼잡도"
 msgstr "混雑"
+
+msgid "아래에서 아이템을 선택해 주세요."
+msgstr ""
 
 msgid "목록 제한"
 msgstr "ノードマネージャ"
@@ -2327,3 +2329,4 @@ msgstr "ドジョウLANプロセス"
 
 #~ msgid "스톤에이지"
 #~ msgstr "StoneAge"
+

@@ -5,17 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-04-26 15:59+0900\n"
+"POT-Creation-Date: 2021-05-10 23:22+0900\n"
 "PO-Revision-Date: 2021-04-26 08:00+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: German <https://weblate.mudfish.net/projects/mudfish/launcher/"
-"de/>\n"
 "Language: de_DE\n"
+"Language-Team: German "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/de/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -83,6 +82,9 @@ msgstr "Artikel-RTT-Status - Erweiterter Modus"
 
 msgid "아이템 RTT 상황 - Multi Path 모드"
 msgstr "Artikel-RTT-Status - Multi Path Mode"
+
+msgid "RTT 정보 조회"
+msgstr "RTT-Informationsanfrage"
 
 msgid "Custom 아이템"
 msgstr "Benutzerdefinierte Artikel"
@@ -444,14 +446,17 @@ msgstr "Ausgewählter Relay-Server"
 msgid "장착한 아이템이 없습니다."
 msgstr "Es sind keine Artikel ausgerüstet."
 
-msgid "RTT 정보 조회"
-msgstr "RTT-Informationsanfrage"
-
 msgid "메뉴"
 msgstr "Menü"
 
 msgid "오늘의 추천 경로"
 msgstr "Heutige empfohlene Route"
+
+msgid "설정"
+msgstr "Einstellungen"
+
+msgid "사용 여부"
+msgstr "Nutzungsstatus"
 
 msgid "라우팅 정보"
 msgstr "Routing-Informationen"
@@ -467,7 +472,8 @@ msgstr "Schmerlenelement hinzugefügt"
 
 msgid "미꾸라지에 이미 만들어져 있는 아이템을 리스트에 추가합니다."
 msgstr ""
-"Fügt der Liste ein Element hinzu, das bereits in der Schmerle erstellt wurde."
+"Fügt der Liste ein Element hinzu, das bereits in der Schmerle erstellt "
+"wurde."
 
 msgid "프로세스 추가"
 msgstr "Prozess hinzufügen"
@@ -593,9 +599,15 @@ msgstr "Auf den ausgewählten Relay-Server geändert."
 
 msgid "처음 미꾸라지를 사용하시나요? 설정된 아이템이 없습니다. 아이템 마법사 기능으로 첫 아이템을 세팅해 보세요."
 msgstr ""
-"Verwenden Sie Schmerle zum ersten Mal? Es sind keine Elemente festgelegt. "
-"Versuchen Sie, Ihren ersten Artikel mit der Funktion des Artikelassistenten "
-"einzustellen."
+"Verwenden Sie Schmerle zum ersten Mal? Es sind keine Elemente festgelegt."
+" Versuchen Sie, Ihren ersten Artikel mit der Funktion des "
+"Artikelassistenten einzustellen."
+
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr "Sie müssen das Programm neu starten, bevor es wirksam wird."
+
+msgid "설정 구성을 시작합니다."
+msgstr "Starten der Konfigurationseinstellungen."
 
 msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
 msgstr "Derzeit sind keine Elemente aktiv. Hör auf zu rennen."
@@ -655,12 +667,6 @@ msgid "잘못된 MTU 값입니다. MTU 값은 최소 576, 최대 1450 까지 설
 msgstr ""
 "Ungültiger MTU-Wert Der MTU-Wert kann auf ein Minimum von 576 und ein "
 "Maximum von 1450 eingestellt werden."
-
-msgid "프로그램을 재시작하셔야 적용됩니다."
-msgstr "Sie müssen das Programm neu starten, bevor es wirksam wird."
-
-msgid "설정 구성을 시작합니다."
-msgstr "Starten der Konfigurationseinstellungen."
 
 msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
 msgstr "Es kann nur ein Relay-Server im Full VPN-Modus festgelegt werden."
@@ -1123,9 +1129,6 @@ msgstr ""
 "Network). Wenn Sie eine Datei herunterladen oder streamen, während "
 "Mudfish aktiviert ist, können Sie versehentlich viel Guthaben verlieren."
 
-msgid "설정"
-msgstr "Einstellungen"
-
 msgid "자동 갱신"
 msgstr "Automatische Verlängerung"
 
@@ -1230,9 +1233,6 @@ msgid "설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변�
 msgstr ""
 "Sobald die Setup-Konfiguration abgeschlossen ist, ändert sich der "
 "ausgewählte Relay-Server nicht mehr in der Mitte."
-
-msgid "사용 여부"
-msgstr "Nutzungsstatus"
 
 msgid "아이템 사용 여부를 선택합니다."
 msgstr "Wählen Sie aus, ob das Item verwendet werden soll."
@@ -1367,13 +1367,13 @@ msgstr "Item-Modus-Einstellung"
 
 msgid "아이템 설정 모드 변경을 하고자 한다면, '설정 -> 프로그램' 메뉴에 있는 Launcher 탭에서 변경하실 수 있습니다."
 msgstr ""
-"Wenn Sie den Elementeinstellungsmodus ändern möchten, können Sie dies auf "
-"der Registerkarte Launcher im Menü 'Einstellungen -> Programme' tun."
+"Wenn Sie den Elementeinstellungsmodus ändern möchten, können Sie dies auf"
+" der Registerkarte Launcher im Menü 'Einstellungen -> Programme' tun."
 
 msgid "아이템 설정 및 구성을 최대한 단순화 시킨 모드입니다."
 msgstr ""
-"Dies ist ein Modus, der die Einstellung und Konfiguration von Elementen so "
-"weit wie möglich vereinfacht."
+"Dies ist ein Modus, der die Einstellung und Konfiguration von Elementen "
+"so weit wie möglich vereinfacht."
 
 msgid "기존 미꾸라지 아이템 설정 방법입니다."
 msgstr "So legen Sie das vorhandene Schmerlenelement fest."
@@ -1393,21 +1393,22 @@ msgstr "Relay-Server-Liste"
 msgid "미꾸라지를 처음 사용하시는 분들을 위한 아이템 설정 마법사 화면입니다. 플레이하고자 하는 게임/스트리밍을 선택해 주세요."
 msgstr ""
 "Dies ist der Bildschirm des Assistenten zum Einrichten von Elementen für "
-"diejenigen, die neu im Loach sind. Bitte wählen Sie das Spiel / Streaming "
-"aus, das Sie spielen möchten."
+"diejenigen, die neu im Loach sind. Bitte wählen Sie das Spiel / Streaming"
+" aus, das Sie spielen möchten."
 
 msgid "찾는 게임/스트리밍이 없나요?"
 msgstr "Kein Spiel / Streaming, das Sie suchen?"
 
 msgid "미꾸라지에서 지원하지 않는 게임/스트리밍을 사용하신다면 다음 중 하나의 방법을 사용하시기 바랍니다."
 msgstr ""
-"Wenn Sie ein Spiel / Streaming verwenden, das von Loach nicht unterstützt "
-"wird, verwenden Sie bitte eine der folgenden Methoden."
+"Wenn Sie ein Spiel / Streaming verwenden, das von Loach nicht unterstützt"
+" wird, verwenden Sie bitte eine der folgenden Methoden."
 
 msgid "Full VPN 모드를 사용하실 경우, 컴퓨터에서 발생되는 모든 트래픽을 지정한 미꾸라지 중계 서버를 통해 전달됩니다."
 msgstr ""
 "Bei Verwendung des vollständigen VPN-Modus wird der gesamte vom Computer "
-"generierte Datenverkehr über den angegebenen Loach-Relay-Server übertragen."
+"generierte Datenverkehr über den angegebenen Loach-Relay-Server "
+"übertragen."
 
 msgid "Custom 아이템 제작"
 msgstr "Benutzerdefinierte Artikelerstellung"
@@ -1474,6 +1475,9 @@ msgstr "Fehler"
 
 msgid "혼잡도"
 msgstr "Überlastung"
+
+msgid "아래에서 아이템을 선택해 주세요."
+msgstr ""
 
 msgid "목록 제한"
 msgstr "Listenlimit"
@@ -2453,3 +2457,4 @@ msgstr "Mudfish LAN Prozess"
 
 #~ msgid "스톤에이지"
 #~ msgstr "StoneAge"
+

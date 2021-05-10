@@ -5,17 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-04-26 15:59+0900\n"
+"POT-Creation-Date: 2021-05-10 23:22+0900\n"
 "PO-Revision-Date: 2021-04-26 08:00+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Spanish <https://weblate.mudfish.net/projects/mudfish/"
-"launcher/es/>\n"
 "Language: es_ES\n"
+"Language-Team: Spanish "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/es/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -83,6 +82,9 @@ msgstr "Situación RTT de artículo-Modo avanzado"
 
 msgid "아이템 RTT 상황 - Multi Path 모드"
 msgstr "Situación RTT de artículo - Modo de ruta múltiple"
+
+msgid "RTT 정보 조회"
+msgstr "Ver información de RTT"
 
 msgid "Custom 아이템"
 msgstr "Artículos personalizados"
@@ -438,14 +440,17 @@ msgstr "Servidor de retransmisión seleccionado"
 msgid "장착한 아이템이 없습니다."
 msgstr "No hay artículos equipados."
 
-msgid "RTT 정보 조회"
-msgstr "Ver información de RTT"
-
 msgid "메뉴"
 msgstr "Menú"
 
 msgid "오늘의 추천 경로"
 msgstr "Ruta de referencia de hoy"
+
+msgid "설정"
+msgstr "Configurar"
+
+msgid "사용 여부"
+msgstr "Estado de uso"
 
 msgid "라우팅 정보"
 msgstr "Información de enrutamiento"
@@ -473,8 +478,8 @@ msgstr "Agregar tabla de enrutamiento"
 
 msgid "운영체제에서 세팅될 라우팅 테이블 정보를 추가합니다."
 msgstr ""
-"Agregue la información de la tabla de enrutamiento que se establecerá en el "
-"sistema operativo."
+"Agregue la información de la tabla de enrutamiento que se establecerá en "
+"el sistema operativo."
 
 msgid "추가하실 프로세스 이름을 선택해 주세요."
 msgstr "Seleccione un nombre de proceso para agregar."
@@ -584,8 +589,15 @@ msgstr "Cambiado al servidor de retransmisión seleccionado."
 
 msgid "처음 미꾸라지를 사용하시나요? 설정된 아이템이 없습니다. 아이템 마법사 기능으로 첫 아이템을 세팅해 보세요."
 msgstr ""
-"¿Está usando loach por primera vez? No hay elementos establecidos. Intente "
-"configurar su primer elemento con la función Asistente de elementos."
+"¿Está usando loach por primera vez? No hay elementos establecidos. "
+"Intente configurar su primer elemento con la función Asistente de "
+"elementos."
+
+msgid "프로그램을 재시작하셔야 적용됩니다."
+msgstr "Debe reiniciar el programa antes de que surta efecto."
+
+msgid "설정 구성을 시작합니다."
+msgstr "Comience a configurar los ajustes."
 
 msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
 msgstr "Actualmente no hay elementos activos. Deja de correr."
@@ -645,12 +657,6 @@ msgid "잘못된 MTU 값입니다. MTU 값은 최소 576, 최대 1450 까지 설
 msgstr ""
 "Valor de MTU no válido El valor de MTU se puede establecer entre 576 "
 "mínimo y 1450 máximo."
-
-msgid "프로그램을 재시작하셔야 적용됩니다."
-msgstr "Debe reiniciar el programa antes de que surta efecto."
-
-msgid "설정 구성을 시작합니다."
-msgstr "Comience a configurar los ajustes."
 
 msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
 msgstr "Solo se debe configurar un servidor de retransmisión en modo VPN completo."
@@ -1004,8 +1010,8 @@ msgstr "Tema de volcado de paquetes"
 
 msgid "운영체제에서 실행되고 종료되는 프로세스 이름을 덤프하는 기능입니다."
 msgstr ""
-"Esta función vuelca los nombres de los procesos que se ejecutan y terminan "
-"en el sistema operativo."
+"Esta función vuelca los nombres de los procesos que se ejecutan y "
+"terminan en el sistema operativo."
 
 msgid "프로세스 갯수"
 msgstr "Numero de procesos"
@@ -1107,9 +1113,6 @@ msgstr ""
 "Mudfish está activado, puede deducir inadvertidamente una gran cantidad "
 "de crédito."
 
-msgid "설정"
-msgstr "Configurar"
-
 msgid "자동 갱신"
 msgstr "Renovación automática"
 
@@ -1188,8 +1191,8 @@ msgstr "No se pudo encontrar el destino."
 
 msgid "Custom 아이템의 경우, '아이템 수정' 메뉴에서 목적지를 입력하실 수 있습니다."
 msgstr ""
-"Para elementos personalizados, puede ingresar el destino en el menú 'Editar "
-"elemento'."
+"Para elementos personalizados, puede ingresar el destino en el menú "
+"'Editar elemento'."
 
 msgid "계산된 최적의 미꾸라지 중계 서버 이용 경로들이며, 예상 RTT 평균과 편차 정보입니다."
 msgstr ""
@@ -1214,9 +1217,6 @@ msgid "설정 구성 완료 후 한번 선택된 중계 서버는 중간에 변�
 msgstr ""
 "Una vez que se completa la configuración, el servidor de retransmisión "
 "seleccionado no cambiará en el medio."
-
-msgid "사용 여부"
-msgstr "Estado de uso"
 
 msgid "아이템 사용 여부를 선택합니다."
 msgstr "Seleccione si desea usar el elemento."
@@ -1348,13 +1348,13 @@ msgstr "Configuración del modo de artículo"
 
 msgid "아이템 설정 모드 변경을 하고자 한다면, '설정 -> 프로그램' 메뉴에 있는 Launcher 탭에서 변경하실 수 있습니다."
 msgstr ""
-"Si desea cambiar el modo de configuración del elemento, puede hacerlo en la "
-"pestaña Iniciador en el menú 'Configuración -> Programas'."
+"Si desea cambiar el modo de configuración del elemento, puede hacerlo en "
+"la pestaña Iniciador en el menú 'Configuración -> Programas'."
 
 msgid "아이템 설정 및 구성을 최대한 단순화 시킨 모드입니다."
 msgstr ""
-"Este es un modo que simplifica la configuración y configuración de elementos "
-"tanto como sea posible."
+"Este es un modo que simplifica la configuración y configuración de "
+"elementos tanto como sea posible."
 
 msgid "기존 미꾸라지 아이템 설정 방법입니다."
 msgstr "Así es como se configura el artículo de locha existente."
@@ -1382,8 +1382,8 @@ msgstr "¿No buscas ningún juego / transmisión?"
 
 msgid "미꾸라지에서 지원하지 않는 게임/스트리밍을 사용하신다면 다음 중 하나의 방법을 사용하시기 바랍니다."
 msgstr ""
-"Si está utilizando un juego / transmisión que no es compatible con Loach, "
-"utilice uno de los siguientes métodos."
+"Si está utilizando un juego / transmisión que no es compatible con Loach,"
+" utilice uno de los siguientes métodos."
 
 msgid "Full VPN 모드를 사용하실 경우, 컴퓨터에서 발생되는 모든 트래픽을 지정한 미꾸라지 중계 서버를 통해 전달됩니다."
 msgstr ""
@@ -1396,8 +1396,8 @@ msgstr "Creación de artículos personalizados"
 
 msgid "Custom 아이템 제작 기능을 이용하여 프로세스 및 운영체제 라우팅 테이블별로 지정할 수 있습니다."
 msgstr ""
-"Puede especificar cada proceso y tabla de enrutamiento del sistema operativo "
-"mediante la función de creación de elementos personalizados."
+"Puede especificar cada proceso y tabla de enrutamiento del sistema "
+"operativo mediante la función de creación de elementos personalizados."
 
 msgid "목적지 서버 위치"
 msgstr "Ubicación del servidor de destino"
@@ -1456,6 +1456,9 @@ msgstr "Error"
 
 msgid "혼잡도"
 msgstr "Congestión"
+
+msgid "아래에서 아이템을 선택해 주세요."
+msgstr ""
 
 msgid "목록 제한"
 msgstr "Límite de la lista"
@@ -2431,3 +2434,4 @@ msgstr "Mudfish LAN process"
 
 #~ msgid "스톤에이지"
 #~ msgstr "StoneAge"
+
