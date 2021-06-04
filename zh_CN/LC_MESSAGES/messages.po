@@ -6,17 +6,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-05-10 23:22+0900\n"
+"POT-Creation-Date: 2021-06-04 17:54+0900\n"
 "PO-Revision-Date: 2021-05-10 14:35+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://weblate.mudfish.net/projects/"
-"mudfish/launcher/zh_Hans/>\n"
 "Language: zh_CN\n"
+"Language-Team: Chinese (Simplified) "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/zh_Hans/>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -495,6 +494,25 @@ msgstr "正在计算。请稍后再试。"
 msgid "라우팅 경로"
 msgstr "路由路径"
 
+msgid "미꾸라지 중계 서버"
+msgstr "Mudfish服务器"
+
+msgid "공개 무료 서버"
+msgstr "免费服务器"
+
+msgid ""
+"컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 "
+"서버 중 하나를 선택해 주세요."
+msgstr "所有数据都由免费服务器处理。请你选择在名单上可用的免费服务器。"
+
+msgid ""
+"이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기 때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 "
+"미꾸라지 네트웍스에서 책임지지 않습니다."
+msgstr "这些公开免费服务器不是由我们来提供的，因此我们不保证你使用这些服务器所遇到的问题。"
+
+msgid "사용 안함"
+msgstr "关"
+
 msgid ""
 "컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를 "
 "선택해 주세요."
@@ -622,12 +640,6 @@ msgstr "MTU值无效。 MTU值可以设置为最小值576和最大值1450。"
 msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
 msgstr "在完整VPN模式上，只能选择一台服务器。"
 
-msgid "미꾸라지 중계 서버"
-msgstr "Mudfish服务器"
-
-msgid "공개 무료 서버"
-msgstr "免费服务器"
-
 msgid "예외 경로"
 msgstr "Exceptional Routes"
 
@@ -658,19 +670,6 @@ msgstr "选项"
 
 msgid "설정 초기화"
 msgstr "重启"
-
-msgid ""
-"컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 "
-"서버 중 하나를 선택해 주세요."
-msgstr "所有数据都由免费服务器处理。请你选择在名单上可用的免费服务器。"
-
-msgid ""
-"이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기 때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 "
-"미꾸라지 네트웍스에서 책임지지 않습니다."
-msgstr "这些公开免费服务器不是由我们来提供的，因此我们不保证你使用这些服务器所遇到的问题。"
-
-msgid "사용 안함"
-msgstr "关"
 
 msgid "RTT 상황"
 msgstr "RTT状态"
@@ -733,6 +732,9 @@ msgstr "连接协议"
 
 msgid "미꾸라지가 중계 서버와 통신에 사용할 프로토콜을 지정합니다."
 msgstr "指定用于与Mudfish服务器通信的协议。"
+
+msgid "자동"
+msgstr ""
 
 msgid "FEC 기반"
 msgstr "在于FEC基础"
@@ -2279,3 +2281,4 @@ msgstr "Mudfish LAN process"
 
 #~ msgid "스톤에이지"
 #~ msgstr "StoneAge"
+

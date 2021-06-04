@@ -5,17 +5,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-05-10 23:22+0900\n"
+"POT-Creation-Date: 2021-06-04 17:54+0900\n"
 "PO-Revision-Date: 2021-05-10 14:35+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
-"Language-Team: Japanese <https://weblate.mudfish.net/projects/mudfish/"
-"launcher/ja/>\n"
 "Language: ja_JP\n"
+"Language-Team: Japanese "
+"<https://weblate.mudfish.net/projects/mudfish/launcher/ja/>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.4\n"
 "Generated-By: Babel 2.6.0\n"
 
 msgid "미꾸라지 LAN"
@@ -507,6 +506,30 @@ msgstr "計算中です。しばらくして再度試してみてください。
 msgid "라우팅 경로"
 msgstr "ルーティングパス"
 
+msgid "미꾸라지 중계 서버"
+msgstr "Mudfish Nodes"
+
+msgid "공개 무료 서버"
+msgstr "Public Nodes"
+
+msgid ""
+"컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 "
+"서버 중 하나를 선택해 주세요."
+msgstr ""
+"Redirects all traffics from the desktop to the public node. Please select"
+" one of public nodes below to use if you want to use."
+
+msgid ""
+"이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기 때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 "
+"미꾸라지 네트웍스에서 책임지지 않습니다."
+msgstr ""
+"These public nodes are not official nodes provided by Mudfish Networks, "
+"so please be aware that Mudfish Networks is not responsible for any "
+"issues caused by using these nodes."
+
+msgid "사용 안함"
+msgstr "オフ"
+
 msgid ""
 "컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를 "
 "선택해 주세요."
@@ -634,12 +657,6 @@ msgstr "不適切MTU値です。 MTUの値は、最小576、最大1450まで設�
 msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
 msgstr "Only one node for full VPN mode should be set."
 
-msgid "미꾸라지 중계 서버"
-msgstr "Mudfish Nodes"
-
-msgid "공개 무료 서버"
-msgstr "Public Nodes"
-
 msgid "예외 경로"
 msgstr "Exceptional Routes"
 
@@ -672,24 +689,6 @@ msgstr "Options"
 
 msgid "설정 초기화"
 msgstr "リセット"
-
-msgid ""
-"컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 "
-"서버 중 하나를 선택해 주세요."
-msgstr ""
-"Redirects all traffics from the desktop to the public node. Please select"
-" one of public nodes below to use if you want to use."
-
-msgid ""
-"이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기 때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 "
-"미꾸라지 네트웍스에서 책임지지 않습니다."
-msgstr ""
-"These public nodes are not official nodes provided by Mudfish Networks, "
-"so please be aware that Mudfish Networks is not responsible for any "
-"issues caused by using these nodes."
-
-msgid "사용 안함"
-msgstr "オフ"
 
 msgid "RTT 상황"
 msgstr "RTTステータス"
@@ -752,6 +751,9 @@ msgstr "接続プロトコル"
 
 msgid "미꾸라지가 중계 서버와 통신에 사용할 프로토콜을 지정합니다."
 msgstr "マッドフィッシュノードとの通信に使用するプロトコルを指定します。"
+
+msgid "자동"
+msgstr ""
 
 msgid "FEC 기반"
 msgstr "FEC based"
@@ -2328,3 +2330,4 @@ msgstr "ドジョウLANプロセス"
 
 #~ msgid "스톤에이지"
 #~ msgstr "StoneAge"
+

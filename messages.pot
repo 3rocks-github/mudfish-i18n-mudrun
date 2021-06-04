@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-05-10 23:22+0900\n"
+"POT-Creation-Date: 2021-06-04 17:54+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -482,6 +482,25 @@ msgstr ""
 msgid "라우팅 경로"
 msgstr ""
 
+msgid "미꾸라지 중계 서버"
+msgstr ""
+
+msgid "공개 무료 서버"
+msgstr ""
+
+msgid ""
+"컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 서버 중"
+" 하나를 선택해 주세요."
+msgstr ""
+
+msgid ""
+"이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기 때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 미꾸라지 "
+"네트웍스에서 책임지지 않습니다."
+msgstr ""
+
+msgid "사용 안함"
+msgstr ""
+
 msgid ""
 "컴퓨터에서 발생되는 모든 트래픽을 미꾸라지 중계 서버로 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 중계 서버를 선택해 "
 "주세요."
@@ -609,12 +628,6 @@ msgstr ""
 msgid "Full VPN 모드의 중계 서버는 1 개만 설정하셔야 합니다."
 msgstr ""
 
-msgid "미꾸라지 중계 서버"
-msgstr ""
-
-msgid "공개 무료 서버"
-msgstr ""
-
 msgid "예외 경로"
 msgstr ""
 
@@ -641,19 +654,6 @@ msgid "기타 옵션"
 msgstr ""
 
 msgid "설정 초기화"
-msgstr ""
-
-msgid ""
-"컴퓨터에서 발생되는 모든 트래픽을 공개 무료 서버를 통해 전달합니다. 만약 이 기능을 사용하실려면 아래의 이용 가능한 공개 무료 서버 중"
-" 하나를 선택해 주세요."
-msgstr ""
-
-msgid ""
-"이 공개 무료 서버들은 미꾸라지 네트웍스에서 제공되는 공식 서버가 아니기 때문에 이 서버들을 사용함으로 인해 발생되는 이슈는 미꾸라지 "
-"네트웍스에서 책임지지 않습니다."
-msgstr ""
-
-msgid "사용 안함"
 msgstr ""
 
 msgid "RTT 상황"
@@ -714,6 +714,9 @@ msgid "연결 프로토콜"
 msgstr ""
 
 msgid "미꾸라지가 중계 서버와 통신에 사용할 프로토콜을 지정합니다."
+msgstr ""
+
+msgid "자동"
 msgstr ""
 
 msgid "FEC 기반"
