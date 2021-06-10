@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-06-04 17:54+0900\n"
+"POT-Creation-Date: 2021-06-10 14:22+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -521,7 +521,13 @@ msgstr ""
 msgid "두개의 중계 서버들을 경유하여 트래픽이 전달됩니다."
 msgstr ""
 
-msgid "두개의 중계 서버들을 경유하여 트래픽이 전달되지만, 첫번째 중계 서버의 선택이 Ping 상태에 따라 자동으로 변경됩니다."
+msgid "기본 모드 혹은 고급 모드보다 핑과 안정성이 뛰어나지만, 트래픽 사용량이 상대적으로 2 배 혹은 3 배 정도 많이 사용됩니다."
+msgstr ""
+
+msgid "핑 상태에 따라서, 자동으로 여러 중계 서버들을 경유하여 트래픽이 전달됩니다."
+msgstr ""
+
+msgid "목적지에 가까운 미꾸라지 중계 서버를 사용하는 것이 좋습니다."
 msgstr ""
 
 msgid "자동 선택"
@@ -554,6 +560,9 @@ msgid ""
 msgstr ""
 
 msgid "중계 서버 설정"
+msgstr ""
+
+msgid "사용중인 아이템에 목적지 설정 정보가 없습니다. 이 경우 중계 서버 자동 선택이 동작하지 않습니다."
 msgstr ""
 
 msgid "선택하신 중계 서버로 변경되었습니다."
@@ -1553,6 +1562,9 @@ msgid "1:1 문의"
 msgstr ""
 
 msgid "다운로드"
+msgstr ""
+
+msgid "공지사항"
 msgstr ""
 
 msgid "포럼"
