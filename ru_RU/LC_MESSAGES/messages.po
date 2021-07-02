@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-07-02 13:57+0900\n"
+"POT-Creation-Date: 2021-07-02 13:58+0900\n"
 "PO-Revision-Date: 2021-06-10 05:29+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
 "Language: ru_RU\n"
@@ -647,6 +647,9 @@ msgstr "Для работы программы вы должны перезап�
 
 msgid "설정 구성을 시작합니다."
 msgstr "Начните настройку параметров."
+
+msgid "정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
+msgstr ""
 
 msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
 msgstr "В настоящее время нет активных элементов. Прекратить бег."
