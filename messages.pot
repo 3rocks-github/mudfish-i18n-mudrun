@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-07-02 14:30+0900\n"
+"POT-Creation-Date: 2021-07-02 14:36+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -165,7 +165,7 @@ msgstr ""
 msgid "설정 구성 확인"
 msgstr ""
 
-msgid "정액제 이용권"
+msgid "이용권"
 msgstr ""
 
 msgid "정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
@@ -374,9 +374,6 @@ msgid "요금제"
 msgstr ""
 
 msgid "없음"
-msgstr ""
-
-msgid "이용권"
 msgstr ""
 
 msgid "현재 Public IP"
