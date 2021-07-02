@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-07-02 13:58+0900\n"
+"POT-Creation-Date: 2021-07-02 13:59+0900\n"
 "PO-Revision-Date: 2021-06-10 05:29+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
 "Language: de_DE\n"
@@ -1992,9 +1992,6 @@ msgstr "NavyField"
 msgid "페이퍼맨"
 msgstr "PaperMan"
 
-msgid "판타지 스타 온라인 2"
-msgstr "Phantasy Star Online 2"
-
 msgid "퀘이크 라이브"
 msgstr "Quake Live"
 
@@ -2417,6 +2414,9 @@ msgstr "Granblue Fantasy Versus"
 msgid "피파 21"
 msgstr "FIFA 21"
 
+msgid "일랜시아"
+msgstr ""
+
 msgid "모여서 플레이할 중계 서버를 선택합니다."
 msgstr "Wählen Sie einen Relay-Server zum Sammeln und Spielen aus."
 
@@ -2504,4 +2504,7 @@ msgstr "Mudfish LAN Prozess"
 #~ "werden, damit das Programm ordnungsgemäß "
 #~ "funktioniert. Möchten Sie zur Kaufseite "
 #~ "für Artikel gehen?"
+
+#~ msgid "판타지 스타 온라인 2"
+#~ msgstr "Phantasy Star Online 2"
 
