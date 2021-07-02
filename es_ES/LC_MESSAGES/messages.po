@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Mudfish Launcher 1.0\n"
 "Report-Msgid-Bugs-To: weongyo@gmail.com\n"
-"POT-Creation-Date: 2021-07-02 13:59+0900\n"
+"POT-Creation-Date: 2021-07-02 14:30+0900\n"
 "PO-Revision-Date: 2021-06-10 05:29+0000\n"
 "Last-Translator: Weongyo Jeong <weongyo@gmail.com>\n"
 "Language: es_ES\n"
@@ -178,7 +178,7 @@ msgstr "Verifique la configuración de sus ajustes"
 msgid "정액제 이용권"
 msgstr ""
 
-msgid "이용권이 없습니다. 정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
+msgid "정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
 msgstr ""
 
 msgid "미꾸라지가 성공적으로 실행되었습니다. 화면을 갱신합니다."
@@ -641,9 +641,6 @@ msgstr "Debe reiniciar el programa antes de que surta efecto."
 
 msgid "설정 구성을 시작합니다."
 msgstr "Comience a configurar los ajustes."
-
-msgid "정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
-msgstr ""
 
 msgid "현재 활성화된 아이템이 없습니다. 실행을 중지합니다."
 msgstr "Actualmente no hay elementos activos. Deja de correr."
@@ -2485,4 +2482,7 @@ msgstr "Mudfish LAN process"
 
 #~ msgid "판타지 스타 온라인 2"
 #~ msgstr "Phantasy Star Online 2"
+
+#~ msgid "이용권이 없습니다. 정액제 요금제가 동작하기 위해서는 이용권을 구매하셔야 합니다. 이용권 구매 페이지로 이동하시겠습니까?"
+#~ msgstr ""
 
